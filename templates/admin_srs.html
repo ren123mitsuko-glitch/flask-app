@@ -1,0 +1,13 @@
+<h1>🔁 SRS（復習データ）</h1>
+
+<div class="admin-list">
+    {% for word, data in srs.items() %}
+        <div class="admin-item">
+            <b>{{ word }}</b><br>
+            interval: {{ data.interval }}<br>
+            next: {{ data.next }}
+        </div>
+    {% endfor %}
+</div>
+
+<a class="home-btn" href="/admin">← 管理メニューへ戻る</a>
