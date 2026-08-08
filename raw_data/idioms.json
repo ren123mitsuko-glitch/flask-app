@@ -1,0 +1,1324 @@
+[
+  {
+    "idiom": "break down",
+    "meaning": "故障する / 分析する",
+    "example": "The car broke down on the way.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "carry out",
+    "meaning": "実行する",
+    "example": "We need to carry out the plan.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "look after",
+    "meaning": "世話をする",
+    "example": "She looks after her little brother.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "turn down",
+    "meaning": "断る / 音量を下げる",
+    "example": "He turned down the offer.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "make up",
+    "meaning": "作り上げる / 仲直りする",
+    "example": "They made up after the argument.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "put off",
+    "meaning": "延期する",
+    "example": "We had to put off the meeting.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "run into",
+    "meaning": "偶然出会う",
+    "example": "I ran into my teacher at the station.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "bring up",
+    "meaning": "話題にする / 育てる",
+    "example": "He brought up an interesting point.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "set up",
+    "meaning": "設置する / 準備する",
+    "example": "They set up a new office.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "take over",
+    "meaning": "引き継ぐ",
+    "example": "She will take over the project.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "get along",
+    "meaning": "仲良くする",
+    "example": "They get along very well.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look up",
+    "meaning": "調べる",
+    "example": "You should look up the word in a dictionary.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "give up",
+    "meaning": "諦める",
+    "example": "Don't give up on your dreams.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "work out",
+    "meaning": "うまくいく / 運動する",
+    "example": "Everything worked out in the end.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "figure out",
+    "meaning": "理解する",
+    "example": "I can't figure out the answer.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "turn up",
+    "meaning": "現れる / 音量を上げる",
+    "example": "He finally turned up at the party.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "call off",
+    "meaning": "中止する",
+    "example": "They called off the event due to rain.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "look forward to",
+    "meaning": "楽しみにする",
+    "example": "I look forward to seeing you.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "deal with",
+    "meaning": "対処する",
+    "example": "We need to deal with this problem.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "point out",
+    "meaning": "指摘する",
+    "example": "She pointed out the mistake.",
+    "tag": "会話"
+  }
+,
+
+  {
+    "idiom": "back up",
+    "meaning": "支援する / 後退する",
+    "example": "I'll back you up if anything happens.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "break out",
+    "meaning": "発生する / 勃発する",
+    "example": "A fire broke out last night.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "bring back",
+    "meaning": "思い出させる / 戻す",
+    "example": "This song brings back memories.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "call up",
+    "meaning": "電話する",
+    "example": "I'll call you up later.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "check in",
+    "meaning": "チェックインする",
+    "example": "We checked in at the hotel.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "check over",
+    "meaning": "点検する",
+    "example": "Please check over the report.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "come along",
+    "meaning": "一緒に来る / 進む",
+    "example": "Come along with us.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "come back",
+    "meaning": "戻る",
+    "example": "He came back home late.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "cut off",
+    "meaning": "遮断する / 切り離す",
+    "example": "The electricity was cut off.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "drop by",
+    "meaning": "立ち寄る",
+    "example": "Feel free to drop by anytime.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "fall behind",
+    "meaning": "遅れる",
+    "example": "He fell behind in his studies.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "fill in",
+    "meaning": "記入する / 代理をする",
+    "example": "Please fill in the form.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "find out",
+    "meaning": "調べる / 知る",
+    "example": "I found out the truth.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "get by",
+    "meaning": "なんとかやっていく",
+    "example": "We can get by with this amount.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "get in",
+    "meaning": "入る / 到着する",
+    "example": "The train got in on time.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "get through",
+    "meaning": "乗り越える / 通じる",
+    "example": "I finally got through the exam.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "give away",
+    "meaning": "無料で配る / ばらす",
+    "example": "They gave away free samples.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "go ahead",
+    "meaning": "進める",
+    "example": "Go ahead and start.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "go off",
+    "meaning": "爆発する / 鳴る",
+    "example": "The alarm went off.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "hang out",
+    "meaning": "遊ぶ / ぶらぶらする",
+    "example": "We hung out at the mall.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "head for",
+    "meaning": "向かう",
+    "example": "We headed for the station.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "hold back",
+    "meaning": "抑える",
+    "example": "He held back his anger.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "keep away",
+    "meaning": "近づかない",
+    "example": "Keep away from the fire.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "keep off",
+    "meaning": "避ける",
+    "example": "Keep off the grass.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "kick off",
+    "meaning": "開始する",
+    "example": "The event kicked off at noon.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "lay off",
+    "meaning": "解雇する",
+    "example": "The company laid off 50 workers.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "leave out",
+    "meaning": "省く",
+    "example": "Don't leave out important details.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "let down",
+    "meaning": "失望させる",
+    "example": "Don't let me down.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look around",
+    "meaning": "見回す",
+    "example": "We looked around the museum.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "look out",
+    "meaning": "気をつける",
+    "example": "Look out for cars.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "make out",
+    "meaning": "理解する / 書き上げる",
+    "example": "I can't make out what he said.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "move on",
+    "meaning": "次へ進む",
+    "example": "Let's move on to the next topic.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "pass away",
+    "meaning": "亡くなる",
+    "example": "His grandfather passed away.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pass out",
+    "meaning": "気絶する / 配る",
+    "example": "He passed out from heat.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pay off",
+    "meaning": "報われる / 完済する",
+    "example": "Hard work pays off.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "pick out",
+    "meaning": "選ぶ",
+    "example": "Pick out your favorite color.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pull over",
+    "meaning": "車を止める",
+    "example": "The police told him to pull over.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "put aside",
+    "meaning": "取っておく",
+    "example": "Put aside some money.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "put down",
+    "meaning": "書き留める / けなす",
+    "example": "Put down your thoughts.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "reach out",
+    "meaning": "手を伸ばす / 支援する",
+    "example": "She reached out for help.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "rule out",
+    "meaning": "除外する",
+    "example": "We can't rule out the possibility.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "set aside",
+    "meaning": "取っておく",
+    "example": "Set aside time for study.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "show off",
+    "meaning": "見せびらかす",
+    "example": "He likes to show off his car.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "sort out",
+    "meaning": "整理する / 解決する",
+    "example": "Let's sort out the problem.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "stand by",
+    "meaning": "待機する / 支援する",
+    "example": "I'll stand by you.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "stick to",
+    "meaning": "守る / 固執する",
+    "example": "Stick to your plan.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "take apart",
+    "meaning": "分解する",
+    "example": "He took apart the machine.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "take up",
+    "meaning": "始める / 占める",
+    "example": "She took up painting last year.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "tear down",
+    "meaning": "取り壊す",
+    "example": "They tore down the old building.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "think over",
+    "meaning": "よく考える",
+    "example": "Think over the offer before deciding.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "throw away",
+    "meaning": "捨てる",
+    "example": "Don't throw away useful things.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "turn around",
+    "meaning": "向きを変える / 好転する",
+    "example": "The situation turned around quickly.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "wake up",
+    "meaning": "目を覚ます",
+    "example": "I woke up early today.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "work on",
+    "meaning": "取り組む",
+    "example": "I'm working on my project.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "write down",
+    "meaning": "書き留める",
+    "example": "Write down your ideas.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "act on",
+    "meaning": "基づいて行動する",
+    "example": "He acted on the advice.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "add up",
+    "meaning": "合計する / 理にかなう",
+    "example": "The numbers don't add up.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "back out",
+    "meaning": "手を引く",
+    "example": "He backed out of the deal.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "blow up",
+    "meaning": "爆発する / 激怒する",
+    "example": "The balloon blew up.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "break off",
+    "meaning": "中断する / 関係を断つ",
+    "example": "They broke off the negotiations.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "bring down",
+    "meaning": "落とす / 下げる",
+    "example": "The news brought down the stock price.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "call out",
+    "meaning": "叫ぶ / 呼び出す",
+    "example": "She called out his name.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "calm down",
+    "meaning": "落ち着く",
+    "example": "Calm down and listen.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "carry away",
+    "meaning": "夢中にさせる",
+    "example": "He was carried away by excitement.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "check out",
+    "meaning": "確認する / チェックアウトする",
+    "example": "Check out this new feature.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "come down",
+    "meaning": "下がる / 落ちる",
+    "example": "Prices came down last month.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "come up",
+    "meaning": "話題に上がる / 発生する",
+    "example": "A new issue came up.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "cut back",
+    "meaning": "削減する",
+    "example": "We need to cut back on expenses.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "do away with",
+    "meaning": "廃止する",
+    "example": "They did away with old rules.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "drag on",
+    "meaning": "長引く",
+    "example": "The meeting dragged on for hours.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "drop out",
+    "meaning": "退学する / 脱退する",
+    "example": "He dropped out of school.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "eat out",
+    "meaning": "外食する",
+    "example": "We ate out last night.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "fall for",
+    "meaning": "だまされる / 好きになる",
+    "example": "He fell for the trick.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "figure on",
+    "meaning": "予定する",
+    "example": "We didn't figure on rain.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "get ahead",
+    "meaning": "成功する",
+    "example": "She wants to get ahead in her career.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "get together",
+    "meaning": "集まる",
+    "example": "We got together for dinner.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "give in",
+    "meaning": "屈する",
+    "example": "He finally gave in to pressure.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "go over",
+    "meaning": "見直す",
+    "example": "Let's go over the plan again.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "hand out",
+    "meaning": "配る",
+    "example": "They handed out flyers.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "hold up",
+    "meaning": "遅らせる / 持ちこたえる",
+    "example": "Traffic held us up.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "keep on",
+    "meaning": "続ける",
+    "example": "Keep on studying.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "kick out",
+    "meaning": "追い出す",
+    "example": "They kicked him out of the club.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "lay out",
+    "meaning": "配置する / 説明する",
+    "example": "He laid out the plan clearly.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "let in",
+    "meaning": "入れる",
+    "example": "Let me in, it's cold outside.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "live on",
+    "meaning": "生活する",
+    "example": "They live on a small income.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look back",
+    "meaning": "振り返る",
+    "example": "Don't look back on regrets.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "make for",
+    "meaning": "向かう / 役立つ",
+    "example": "This makes for a better environment.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "pass by",
+    "meaning": "通り過ぎる",
+    "example": "Time passed by quickly.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pay back",
+    "meaning": "返済する",
+    "example": "I'll pay you back tomorrow.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pick on",
+    "meaning": "いじめる",
+    "example": "Don't pick on your brother.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pull out",
+    "meaning": "撤退する / 引き抜く",
+    "example": "The company pulled out of the market.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "put together",
+    "meaning": "組み立てる",
+    "example": "We put together a new team.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "run over",
+    "meaning": "ひく / 溢れる",
+    "example": "The car ran over a cone.",
+    "tag": "動詞句"
+  },
+  {
+    "idiom": "set off",
+    "meaning": "出発する / 引き起こす",
+    "example": "We set off early in the morning.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "speak up",
+    "meaning": "はっきり話す",
+    "example": "Speak up so everyone can hear.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "take back",
+    "meaning": "撤回する / 返品する",
+    "example": "I take back what I said.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "turn in",
+    "meaning": "提出する / 寝る",
+    "example": "I turned in my assignment.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "account for",
+    "meaning": "説明する / 占める",
+    "example": "This error accounts for the delay.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "agree with",
+    "meaning": "賛成する",
+    "example": "I agree with your opinion.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "appeal to",
+    "meaning": "訴える / 魅力がある",
+    "example": "The idea appealed to many students.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "apply for",
+    "meaning": "申し込む",
+    "example": "I applied for the job.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "ask for",
+    "meaning": "求める",
+    "example": "He asked for help.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "believe in",
+    "meaning": "信じる",
+    "example": "I believe in you.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "belong to",
+    "meaning": "所属する",
+    "example": "This book belongs to me.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "benefit from",
+    "meaning": "恩恵を受ける",
+    "example": "Students benefit from the program.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "blame for",
+    "meaning": "責める",
+    "example": "Don't blame me for the mistake.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "care for",
+    "meaning": "世話をする / 好む",
+    "example": "She cares for her grandmother.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "check into",
+    "meaning": "調査する",
+    "example": "We will check into the matter.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "comment on",
+    "meaning": "コメントする",
+    "example": "He commented on the issue.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "compare with",
+    "meaning": "比較する",
+    "example": "Compare this with the old version.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "complain about",
+    "meaning": "不満を言う",
+    "example": "He complained about the noise.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "consist of",
+    "meaning": "構成される",
+    "example": "The team consists of five members.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "contribute to",
+    "meaning": "貢献する",
+    "example": "Exercise contributes to good health.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "cope with",
+    "meaning": "対処する",
+    "example": "She can't cope with stress.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "count on",
+    "meaning": "頼る",
+    "example": "You can count on me.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "cut out",
+    "meaning": "やめる / 切り取る",
+    "example": "Cut out junk food.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "deal in",
+    "meaning": "扱う",
+    "example": "The store deals in electronics.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "depend on",
+    "meaning": "頼る / 依存する",
+    "example": "It depends on the weather.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "divide into",
+    "meaning": "分ける",
+    "example": "Divide the class into groups.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "dream of",
+    "meaning": "夢見る",
+    "example": "She dreams of becoming a doctor.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "engage in",
+    "meaning": "参加する",
+    "example": "He engaged in volunteer work.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "enter into",
+    "meaning": "契約する",
+    "example": "They entered into an agreement.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "focus on",
+    "meaning": "集中する",
+    "example": "Focus on your goals.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "get into",
+    "meaning": "入る / 夢中になる",
+    "example": "He got into gaming.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "go against",
+    "meaning": "逆らう",
+    "example": "He went against the rules.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "hear from",
+    "meaning": "連絡を受ける",
+    "example": "I heard from him yesterday.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "insist on",
+    "meaning": "主張する",
+    "example": "He insisted on paying.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "interfere with",
+    "meaning": "邪魔する",
+    "example": "Noise interferes with sleep.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "invest in",
+    "meaning": "投資する",
+    "example": "They invested in new technology.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "laugh at",
+    "meaning": "笑う",
+    "example": "Don't laugh at others.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "leave for",
+    "meaning": "〜へ向けて出発する",
+    "example": "We leave for Osaka tomorrow.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "listen to",
+    "meaning": "聞く",
+    "example": "Listen to your teacher.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "long for",
+    "meaning": "切望する",
+    "example": "She longed for freedom.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look after",
+    "meaning": "世話をする",
+    "example": "He looks after his dog.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look into",
+    "meaning": "調査する",
+    "example": "We will look into the issue.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "look over",
+    "meaning": "見直す",
+    "example": "Look over your notes.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "look through",
+    "meaning": "ざっと目を通す",
+    "example": "She looked through the documents.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "look up to",
+    "meaning": "尊敬する",
+    "example": "He looks up to his father.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "make up for",
+    "meaning": "埋め合わせる",
+    "example": "This gift makes up for my mistake.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "object to",
+    "meaning": "反対する",
+    "example": "He objected to the plan.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "participate in",
+    "meaning": "参加する",
+    "example": "Many students participated in the event.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "pay for",
+    "meaning": "支払う",
+    "example": "I'll pay for dinner.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "prepare for",
+    "meaning": "準備する",
+    "example": "Prepare for the exam.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "provide for",
+    "meaning": "養う / 備える",
+    "example": "He provides for his family.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "put up with",
+    "meaning": "我慢する",
+    "example": "I can't put up with the noise.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "refer to",
+    "meaning": "言及する",
+    "example": "He referred to the report.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "rely on",
+    "meaning": "頼る",
+    "example": "You can rely on me.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "result in",
+    "meaning": "結果として〜になる",
+    "example": "The accident resulted in delays.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "run into",
+    "meaning": "偶然出会う",
+    "example": "I ran into my friend.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "search for",
+    "meaning": "探す",
+    "example": "I'm searching for my keys.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "see off",
+    "meaning": "見送る",
+    "example": "We saw him off at the airport.",
+    "tag": "旅行"
+  },
+  {
+    "idiom": "set about",
+    "meaning": "取りかかる",
+    "example": "He set about cleaning the room.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "settle down",
+    "meaning": "落ち着く",
+    "example": "He settled down after moving.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "show up",
+    "meaning": "現れる",
+    "example": "He didn't show up.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "sit around",
+    "meaning": "何もしないで過ごす",
+    "example": "We sat around all day.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "sort out",
+    "meaning": "整理する / 解決する",
+    "example": "Let's sort out the issue.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "speak of",
+    "meaning": "話す",
+    "example": "She spoke of her experience.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "stand for",
+    "meaning": "象徴する / 支持する",
+    "example": "The flag stands for freedom.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "stick with",
+    "meaning": "続ける",
+    "example": "Stick with your plan.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "subscribe to",
+    "meaning": "購読する",
+    "example": "I subscribe to the magazine.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "suffer from",
+    "meaning": "苦しむ",
+    "example": "He suffers from allergies.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "take after",
+    "meaning": "似ている",
+    "example": "He takes after his father.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "talk over",
+    "meaning": "話し合う",
+    "example": "Let's talk over the details.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "think of",
+    "meaning": "思いつく",
+    "example": "I thought of a new idea.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "throw up",
+    "meaning": "吐く",
+    "example": "He threw up after eating.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "touch on",
+    "meaning": "触れる",
+    "example": "He touched on the topic briefly.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "turn against",
+    "meaning": "敵対する",
+    "example": "They turned against him.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "turn to",
+    "meaning": "頼る",
+    "example": "He turned to his friend for help.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "wait for",
+    "meaning": "待つ",
+    "example": "Wait for me.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "watch over",
+    "meaning": "見守る",
+    "example": "She watches over her kids.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "work for",
+    "meaning": "働く",
+    "example": "He works for a big company.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "work out",
+    "meaning": "運動する / うまくいく",
+    "example": "Everything worked out.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "write to",
+    "meaning": "手紙を書く",
+    "example": "Write to me soon.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "zero in on",
+    "meaning": "集中する",
+    "example": "Zero in on your target.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "zone out",
+    "meaning": "ぼーっとする",
+    "example": "He zoned out during class.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "back down",
+    "meaning": "引き下がる",
+    "example": "He backed down from the argument.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "bear with",
+    "meaning": "辛抱する",
+    "example": "Please bear with me.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "break away",
+    "meaning": "離れる",
+    "example": "He broke away from the group.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "bring forward",
+    "meaning": "前倒しする",
+    "example": "They brought forward the meeting.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "call for",
+    "meaning": "要求する",
+    "example": "This calls for action.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "carry off",
+    "meaning": "やり遂げる",
+    "example": "She carried off the performance.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "come apart",
+    "meaning": "壊れる",
+    "example": "The toy came apart easily.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "cut in",
+    "meaning": "割り込む",
+    "example": "Don't cut in line.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "do without",
+    "meaning": "なしで済ます",
+    "example": "We can do without sugar.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "fall out",
+    "meaning": "仲違いする",
+    "example": "They fell out over money.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "get around",
+    "meaning": "移動する / 回避する",
+    "example": "He gets around by bike.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "give off",
+    "meaning": "発する",
+    "example": "The lamp gives off heat.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "go along with",
+    "meaning": "同意する",
+    "example": "I can't go along with that idea.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "hold onto",
+    "meaning": "掴む / 保持する",
+    "example": "Hold onto the railing.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "keep from",
+    "meaning": "〜しないようにする",
+    "example": "I kept from laughing.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "let off",
+    "meaning": "許す / 発射する",
+    "example": "The teacher let him off with a warning.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "look down on",
+    "meaning": "見下す",
+    "example": "Don't look down on others.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "make of",
+    "meaning": "理解する / 評価する",
+    "example": "What do you make of this news?",
+    "tag": "会話"
+  },
+  {
+    "idiom": "pass on",
+    "meaning": "伝える / 譲る",
+    "example": "Please pass on the message.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "put off",
+    "meaning": "延期する / 気をそらす",
+    "example": "We had to put off the meeting.",
+    "tag": "ビジネス"
+  },
+  {
+    "idiom": "run for",
+    "meaning": "立候補する",
+    "example": "He ran for president.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "see about",
+    "meaning": "手配する / 確認する",
+    "example": "I'll see about getting tickets.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "stand up for",
+    "meaning": "擁護する",
+    "example": "He stood up for his friend.",
+    "tag": "会話"
+  },
+  {
+    "idiom": "take in",
+    "meaning": "理解する / 騙す",
+    "example": "I couldn't take in all the information.",
+    "tag": "学習"
+  },
+  {
+    "idiom": "turn down",
+    "meaning": "断る / 下げる",
+    "example": "She turned down the offer.",
+    "tag": "会話"
+  }
+]
