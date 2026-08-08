@@ -655,7 +655,7 @@ def admin_login():
 def admin_auth():
     pw = request.form["pw"]
 
-    ADMIN_PASSWORD = "1234"  # ← 好きに変えてOK
+    ADMIN_PASSWORD = "鬱"  # ← 好きに変えてOK
 
     if pw == ADMIN_PASSWORD:
         session["is_admin"] = True
