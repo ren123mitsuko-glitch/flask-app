@@ -1,0 +1,31 @@
+
+<!-- 検索バー -->
+<input type="text" id="search" placeholder="熟語を検索…" oninput="searchIdioms()">
+
+<!-- 熟語カード一覧 -->
+<div class="idiom-list">
+  {% for i in idioms %}
+  <div class="card">
+    <h3>{{ i.idiom }}</h3>
+    <p>{{ i.meaning }}</p>
+    <p class="example">{{ i.example }}</p>
+    <span class="tag">{{ i.tag }}</span>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+function searchIdioms() {
+  const keyword = document.getElementById("search").value.toLowerCase();
+  const cards = document.querySelectorAll(".card");
+
+  cards.forEach(card => {
+    const idiom = card.querySelector("h3").innerText.toLowerCase();
+    if (idiom.includes(keyword)) {
+      card.style.display = "block";
+    } else {
+      card.style.display = "none";
+    }
+  });
+}
+</script>
