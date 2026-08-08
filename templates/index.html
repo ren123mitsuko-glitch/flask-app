@@ -1,0 +1,58 @@
+<link rel="stylesheet" href="/static/style.css">
+
+<link rel="manifest" href="/static/manifest.json">
+<script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/static/service-worker.js");
+  }
+</script>
+
+<h2>問題数を選ぶ</h2>
+
+<div class="count-buttons">
+   
+    <a class="count-btn" href="/quiz?count=10">10問</a>
+    <a class="count-btn" href="/quiz?count=20">20問</a>
+    <a class="count-btn" href="/quiz?count=30">30問</a>
+</div>
+
+
+<h1 class="title">英単語トレーニング</h1>
+
+
+<form action="/koten_quiz" method="get">
+    <button class="koten-btn">古典単語</button>
+</form>
+
+
+
+<a class="menu-btn" href="/idioms_quiz">📘 熟語クイズ</a>
+<a class="menu-btn" href="/idioms">📘 辞書（熟語）</a>
+
+
+
+<a class="menu-btn" href="/mywords">📘 My単語帳</a>
+
+<div class="home-card">
+    <h2>クイズ</h2>
+    <a class="home-btn" href="/quiz?count=10">▶ クイズを始める</a>
+</div>
+
+
+
+
+<div class="home-card">
+    <h2>復習</h2>
+    <a class="home-btn" href="/review">🔁 今日の復習</a>
+</div>
+
+<div class="home-card">
+    <h2>成績</h2>
+    <a class="home-btn" href="/score">📊 スコア履歴</a>
+</div>
+
+<div class="home-card">
+    <h2>設定</h2>
+    <a class="home-btn" href="/admin">⚙ 管理メニュー</a>
+</div>
+
