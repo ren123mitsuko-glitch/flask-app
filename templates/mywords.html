@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="/static/style.css">
+
+<h2>My単語帳</h2>
+
+<a href="/" class="back-btn">🏠 ホームに戻る</a>
+
+
+<!-- 🔍 カラフル検索バー -->
+<div class="search-container">
+  <input type="text" id="searchInput" placeholder="単語を検索…" onkeyup="filterWords()">
+</div>
+
+<!-- 単語リスト -->
+<div class="word-list">
+  {% for w in words %}
+    <div class="word-card" onclick="toggleMeaning(this)">
+      <div class="color-bar"></div>
+      <div class="content">
+        <div class="word">{{ w.word }}</div>
+        <div class="meaning" style="display:none;">{{ w.meaning }}</div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+function toggleMeaning(card) {
+  const meaning = card.querySelector(".meaning");
+  meaning.style.display = (meaning.style.display === "none") ? "block" : "none";
+}
+
+// ★ 検索フィルタ
+function filterWords() {
+  const input = document.getElementById("searchInput").value.toLowerCase();
+  const cards = document.querySelectorAll(".word-card");
+
+  cards.forEach(card => {
+    const word = card.querySelector(".word").textContent.toLowerCase();
+    const meaning = card.querySelector(".meaning").textContent.toLowerCase();
+
+    card.style.display = (word.includes(input) || meaning.includes(input)) ? "flex" : "none";
+  });
+}
+</script>
+
