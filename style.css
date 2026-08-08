@@ -1,0 +1,597 @@
+cbody {
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+}
+
+.choice-btn {
+    width: 100%;
+    padding: 15px;
+    margin: 8px 0;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background: #f0f0f0;
+    transition: 0.2s;
+}
+
+.choice-btn:hover {
+    background: #dcdcdc;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 12px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.range-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.range-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background: #007bff;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.range-btn:active {
+    background: #0056c7;
+}
+
+.count-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 20px 0;
+}
+
+.count-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background: #28a745;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.count-btn:active {
+    background: #1e7e34;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    background: #f5f5f5;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 28px;
+}
+
+.home-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.home-card h2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.home-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background: #007bff;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.home-btn:active {
+    background: #005fcc;
+}
+.admin-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.admin-item {
+    display: block;
+    padding: 18px;
+    background: white;
+    border-radius: 12px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.admin-item:active {
+    background: #f0f0f0;
+}
+
+#searchBox {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+}
+
+.word-list {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.word-card {
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 16px;
+  margin: 12px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.word-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.color-bar {
+  width: 8px;
+  height: 100%;
+  border-radius: 8px;
+  background: linear-gradient(180deg, #4CAF50, #8BC34A);
+  margin-right: 16px;
+}
+
+.content .word {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.content .meaning {
+  font-size: 16px;
+  color: #666;
+  margin-top: 4px;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.8);
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px 30px;
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 9999;
+}
+
+.popup.show {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.popup-text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+.menu-btn {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.menu-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.koten-btn {
+    width: 90%;
+    padding: 20px;
+    margin: 10px auto;
+    font-size: 22px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #b5651d, #d9a066);
+    color: #fff;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+}
+
+.choice-card {
+    transition: transform 0.2s, background 0.2s;
+}
+
+.correct-anim {
+    background: #4CAF50 !important;
+    transform: scale(1.05);
+}
+
+.wrong-anim {
+    background: #E53935 !important;
+    animation: shake 0.3s;
+}
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+
+
+.question-word {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+}
+
+
+.back-btn {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.back-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.word-list {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.word-card {
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 16px;
+    margin: 12px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.word-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.color-bar {
+    width: 8px;
+    height: 100%;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #4CAF50, #8BC34A);
+    margin-right: 16px;
+}
+
+.content .word {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+.content .meaning {
+    font-size: 16px;
+    color: #666;
+    margin-top: 4px;
+}
+
+.back-btn {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+
+
+.back-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+/* 意味を隠す */
+.meaning.hidden {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease, opacity 0.25s ease;
+}
+
+/* 意味を表示（hidden が付いてない時） */
+.meaning:not(.hidden) {
+    max-height: 200px;
+    opacity: 1;
+    transition: max-height 0.25s ease, opacity 0.25s ease;
+}
+
+/* 🔍 カラフル検索バー */
+.search-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+    background: linear-gradient(90deg, #4CAF50, #03A9F4, #E91E63);
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+#searchInput::placeholder {
+    color: rgba(255,255,255,0.8);
+}
+
+/* 削除ボタン */
+.delete-btn {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    background: #ff4d4d;
+    border: none;
+    color: white;
+    font-size: 16px;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    transition: transform 0.15s ease;
+}
+
+.delete-btn:hover {
+    transform: scale(1.15);
+}
+
+.choice-btn {
+    width: 100%;
+    background: #4CAF50;        /* ← 緑の背景（見やすい） */
+    color: white;                /* ← 文字は白でくっきり */
+    border: none;
+    padding: 16px;
+    margin: 10px 0;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.choice-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.choice-btn:active {
+    background: #45A049;         /* ← 押した時に少し濃くなる */
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .card {
+        padding: 15px;
+        border-radius: 12px;
+    }
+
+    h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .choice-btn {
+        width: 100%;
+        padding: 15px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .range-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .range-btn {
+        width: 100%;
+        font-size: 18px;
+        padding: 14px;
+    }
+}
+
+.choice-btn {
+    display: block;
+    width: 100%;
+    padding: 16px;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* 管理者ログイン画面のボックス（基本） */
+.admin-login-box {
+    max-width: 380px;
+    margin: 80px auto;
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+/* PW入力欄 */
+.admin-login-box input[type="password"] {
+    width: 100%;
+    padding: 18px;
+    font-size: 22px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    margin-bottom: 25px;
+}
+
+/* ログインボタン */
+.admin-login-box button {
+    width: 100%;
+    padding: 18px;
+    font-size: 22px;
+    background: #007bff;
+    color: white;
+    border-radius: 12px;
+    border: none;
+}
+
+/* スマホ最適化（最後に置く） */
+@media (max-width: 600px) {
+    .admin-login-box {
+        max-width: 90%;
+        padding: 40px;
+    }
+
+    .admin-login-box input[type="password"],
+    .admin-login-box button {
+        font-size: 24px;
+        padding: 20px;
+    }
+}
+
+.back-btn {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.back-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.priority-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.priority-table th, .priority-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.low { background: #d4f7d4; }
+.mid { background: #fff7c2; }
+.high { background: #ffd4d4; }
+.urgent { background: #ff9e9e; }
+
+.timer {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: #4a90e2;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  z-index: 999;
+}
+
