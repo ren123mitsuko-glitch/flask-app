@@ -1,0 +1,6430 @@
+{
+  "astonish": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "loan": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "independent": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "yawn": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "prefer": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "track": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "military": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "rely": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "exert": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exclude": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "pension": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "obvious": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "compose": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "decorate": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "code": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "current": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "betray": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "perpetual": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "starve": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "stall": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "resign": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "colleague": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "assure": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "strip": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "imitate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "paradox": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "crucial": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "engage": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "mock": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "excess": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "acid": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "ample": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "melt": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "visible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "condemn": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "architecture": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "impose": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "prohibit": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "keen": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "medicine": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "victim": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "archaeology": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "hate": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "medieval": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exception": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "overcome": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "fate": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "official": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "geography": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "aware": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "monetary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "reflect": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "psychiatrist": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "worsen": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "soar": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "hybrid": {
+    "interval": 8,
+    "next": "2026-07-07"
+  },
+  "contrary": {
+    "interval": 2,
+    "next": "2026-06-28"
+  },
+  "accustom": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "bump": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "conventional": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "active": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "recommend": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fallacy": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "deserve": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "confidence": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "proclaim": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "aid": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "academic": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "erupt": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "rub": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "surpass": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "cast": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "apologize": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "retain": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "weary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "sue": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "stimulate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "stuff": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "empirical": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fulfill": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "settle": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "remedy": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "parallel": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "convert": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "clue": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "cheat": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "cosmetic": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "pinch": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "cooperation": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "bug": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "diligent": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "conceal": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "interest": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "expedition": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "enthusiasm": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "sensible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "explode": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "benefit": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "inferior": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "sorrow": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "mourn": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "epidemic": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "bite": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "depart": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "numerous": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "implement": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "advertise": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "scent": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "compulsory": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "sufficient": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "treasure": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "recruit": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "emerge": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "hesitate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "protocol": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "orphan": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "supply": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "dictate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "detect": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "altitude": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "document": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "embrace": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "restrain": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "illuminate": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "pill": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "feast": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "cough": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "overlook": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "accurate": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "tactics": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "republic": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "mortal": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "utility": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "species": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "content": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "remote": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "discipline": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "cue": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "determine": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pregnant": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pesticide": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "grasp": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "bribe": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "desire": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "distinguish": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "superstition": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "chemical": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "interfere": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "precious": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "react": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "log": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "dye": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "questionnaire": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "gradual": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "chase": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "extinct": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "necessary": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "bother": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "conflict": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "improve": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "deforestation": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "survive": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "rob": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "physician": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "split": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "compound": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "disappoint": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "lean": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "fiber": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "blame": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "exhibit": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "competent": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tribe": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "portray": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stain": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "subject": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "locate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "deaf": {
+    "interval": 1,
+    "next": "2026-06-28"
+  },
+  "install": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "opportunity": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "extreme": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "ingredient": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "friction": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "notable": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "means": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "artificial": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "depend": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "reverse": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "accelerate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "crush": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "flame": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "strive": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pollen": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "trace": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "compete": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "mention": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "complicate": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "punctual": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "review": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pledge": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "worthwhile": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "exact": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "classify": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "fault": {
+    "interval": 8,
+    "next": "2026-07-06"
+  },
+  "illusion": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "carve": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "seek": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "horror": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "portion": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "thirst": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "defeat": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "legacy": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "slavery": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bill": {
+    "interval": 16384,
+    "next": "2071-06-13"
+  },
+  "ascend": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "congress": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "inherent": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "include": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "brief": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "involve": {
+    "interval": 32768,
+    "next": "2116-04-22"
+  },
+  "noble": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "pure": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "skeleton": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "surface": {
+    "interval": 8,
+    "next": "2026-07-07"
+  },
+  "educate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "attorney": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "alternate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "superficial": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "rigid": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "confront": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "steer": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "conference": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "triumph": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "parliament": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "embody": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "privilege": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "obsession": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "surge": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "controversy": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "encourage": {
+    "interval": 16384,
+    "next": "2071-06-13"
+  },
+  "influence": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "dense": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "monotonous": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "minister": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "advance": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "acquaintance": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "instrument": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "modify": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "vanish": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "devote": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "equip": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "purchase": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "attempt": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "faith": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "contaminate": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "transplant": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "nod": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "phenomenon": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "grind": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "random": {
+    "interval": 4,
+    "next": "2026-07-03"
+  },
+  "humble": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "refuge": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "swing": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "negotiate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "method": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "combine": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "require": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "retrieve": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "cattle": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "abandon": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "complain": {
+    "interval": 2,
+    "next": "2026-06-29"
+  },
+  "adequate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stir": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "sacred": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ethnic": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "aspire": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "ubiquitous": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "sheer": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "generous": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "league": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "resolve": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "console": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "beg": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "sweep": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "conservation": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "revive": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "outbreak": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "region": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "hostile": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "adopt": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "eloquent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "arbitrary": {
+    "interval": 2,
+    "next": "2026-06-29"
+  },
+  "instruction": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "decline": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "publish": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "matter": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "conscious": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mass": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "quest": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "dizzy": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "virtue": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "tablet": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "sphere": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "regard": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "province": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "familiar": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "infinite": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "govern": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "vague": {
+    "interval": 2,
+    "next": "2026-06-29"
+  },
+  "glow": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "assemble": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "liver": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "examine": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "scatter": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "allow": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "sustain": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "appoint": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "casual": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "squeeze": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "evil": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "illustrate": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "launch": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "hive": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "collapse": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "flesh": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "constitute": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "resent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "frighten": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "regulate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "queue": {
+    "interval": 2,
+    "next": "2026-06-29"
+  },
+  "amaze": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "novel": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "thought": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "detail": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "cite": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "merge": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "loyal": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "transfer": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "irrigation": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "oblige": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "approach": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "divide": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "district": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pain": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "premium": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "analysis": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "spread": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "feature": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fatigue": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "arrange": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "industry": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "discrimination": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "atmosphere": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "proper": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "shame": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "fluent": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "incorporate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "disrupt": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "advantage": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "estate": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "vertical": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "awful": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "dip": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "rough": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "suicide": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "threaten": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "neglect": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "likely": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fabric": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "textile": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "endure": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "irritate": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "severe": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "instinct": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "plight": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "patient": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "joint": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "plain": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "ban": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "qualify": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "progress": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "connect": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "potential": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "spare": {
+    "interval": 4,
+    "next": "2026-07-03"
+  },
+  "conclude": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "spontaneous": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "esteem": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "shade": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "stress": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "fee": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "row": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "verse": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "inspire": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "recall": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "literal": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "cultivate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "grant": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "overall": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "obscure": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "dedicate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "greet": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "immigration": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "heal": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "earnest": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "dominate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "implicit": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "merit": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "moderate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "relax": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "anonymous": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "reunion": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "layer": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "scare": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "await": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "erosion": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exhaust": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "consensus": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "hierarchy": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "laundry": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "reconcile": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "forecast": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "drought": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "burst": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "elite": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "gender": {
+    "interval": 16,
+    "next": "2026-07-15"
+  },
+  "speculate": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "warn": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "pessimistic": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "odd": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "luxury": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "agent": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "stick": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bear": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ambiguous": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "myth": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "overtake": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "obtain": {
+    "interval": 16384,
+    "next": "2071-06-13"
+  },
+  "range": {
+    "interval": 4,
+    "next": "2026-07-03"
+  },
+  "grab": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "erase": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "fascinate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "envy": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "authentic": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "describe": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "symmetry": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "caution": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "reform": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "observe": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "specific": {
+    "interval": 4,
+    "next": "2026-07-03"
+  },
+  "bless": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "asteroid": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "claim": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mercy": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "knit": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "wonder": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "straightforward": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "deal": {
+    "interval": 4,
+    "next": "2026-07-02"
+  },
+  "cherish": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "embark": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "furious": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "destroy": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "preserve": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "suspect": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "surround": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "construct": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "formula": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "conduct": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "version": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "collective": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "forbid": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "charge": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "option": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "nevertheless": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "diplomacy": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "elaborate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "radiation": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "profit": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "disgust": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "bounce": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "patch": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "mood": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "intend": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tear": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "appreciate": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "nationality": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "mission": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "omit": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "laboratory": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "whisper": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "trust": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "underlie": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "insight": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "nourish": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "persist": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "pursue": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "infection": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "divine": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "plunge": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "chop": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "object": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "startle": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "prevail": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "resist": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "view": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "glance": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "Arctic": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "metaphor": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "enormous": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "contemporary": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "bet": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "possible": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "monk": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "expand": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "indispensable": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "organ": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "rhetoric": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "perish": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "display": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "vain": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "expel": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "gene": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "designate": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "quote": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "distort": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "monopoly": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "afford": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "flap": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "arithmetic": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "polar": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "corrupt": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "recite": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "urban": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "extend": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "welfare": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "pronounce": {
+    "interval": 16384,
+    "next": "2071-06-13"
+  },
+  "blossom": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "flow": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "associate": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "environment": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "recipient": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mutual": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "particular": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "spin": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "dim": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "primitive": {
+    "interval": 1,
+    "next": "2026-06-29"
+  },
+  "irrelevant": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "frustrate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "neutral": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "interior": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "employ": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "psychology": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "census": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "solid": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "predecessor": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "certificate": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "thread": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "boundary": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "bow": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "conspicuous": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "juvenile": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "various": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "flexible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "grave": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "doubt": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "statement": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "margin": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "grip": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "nurture": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "scratch": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "comprehend": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "suspend": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "inclined": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "beverage": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "declare": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "motive": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "explore": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "mount": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "common": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "release": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "mean": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "encounter": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "reject": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "insist": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ridiculous": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "spectator": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "vital": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "sparkle": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "surplus": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "sculpture": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "budget": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "bend": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "recover": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "dismiss": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "realm": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "irony": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "circulation": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "maintain": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "carriage": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "assert": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "assist": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "immense": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "priority": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "political": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "boast": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "prospect": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "impress": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "perceive": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "proportion": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "abrupt": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "pour": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "match": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "exile": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "honor": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "cognitive": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "appropriate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "zealous": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "capture": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "resemble": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "intake": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "execute": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "crash": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "bullet": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "foster": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "transaction": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "pile": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "session": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "breakthrough": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "recipe": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "reputation": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "tighten": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "insult": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "define": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "reign": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "uneasy": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "retire": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "valid": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "sewage": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "burden": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "lag": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "concern": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "anxious": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "breakdown": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "discharge": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "spell": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "limb": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "decent": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "undertake": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "facility": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "individual": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "logic": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "generate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "occasion": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "float": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "hide": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "accidental": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "suppress": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "roar": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mechanical": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "regain": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "preliminary": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "specialize": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "device": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "revenge": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "utilize": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "stumble": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "rescue": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "cluster": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "temporary": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fancy": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "profile": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "capital": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "faint": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "trend": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "insurance": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "proceed": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "visual": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "structure": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "polish": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "sociology": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "curse": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "mankind": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "rational": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "defend": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "search": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "flavor": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "dignity": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "custom": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "substance": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "prove": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "ordinary": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "fingerprint": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "globe": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "diminish": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "figure": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "draft": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "hypothesis": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "incident": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "reckless": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "address": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "embarrass": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "dispose": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "peculiar": {
+    "interval": 1,
+    "next": "2026-06-29"
+  },
+  "flush": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "forgive": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "editor": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "license": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "demonstrate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "divorce": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "conscience": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "behave": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "perform": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "deposit": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "rare": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "drag": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "identify": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "replace": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "quality": {
+    "interval": 2,
+    "next": "2026-06-30"
+  },
+  "stubborn": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "decrease": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "compare": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "legislation": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "convince": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "masculine": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "index": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "nursery": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "yell": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "minimum": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "greed": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "enforce": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "nutrition": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "rebel": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "prolong": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "crop": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "permit": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "contend": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "public": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "spatial": {
+    "interval": 1,
+    "next": "2026-06-29"
+  },
+  "relieve": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "passion": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "assign": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "navigate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fragment": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "frontier": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "gaze": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "symptom": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "legitimate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tragedy": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "expire": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "exploit": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "posture": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "fade": {
+    "interval": 8192,
+    "next": "2049-01-07"
+  },
+  "temper": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "patent": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "relevant": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "literary": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "rumor": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "furnish": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "statistics": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "multiple": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "decade": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "intellect": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "conceive": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "tolerate": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "domain": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "voluntary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "imply": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "aggressive": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "tackle": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "prime": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "notice": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "utter": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "struggle": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "emphasize": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "participate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "curve": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "aspect": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "curious": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "concentrate": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "glimpse": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "adolescent": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "mental": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "dread": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "span": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "vocational": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "contemplate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "intrigue": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "occupy": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "guilty": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "tense": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "chronic": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "jealous": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "lend": {
+    "interval": 1,
+    "next": "2026-08-05"
+  },
+  "oppress": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "inherit": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "acknowledge": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exceed": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "bitter": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "guarantee": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "status": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "remark": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "brilliant": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "confess": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "funeral": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "tend": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "suggest": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "disaster": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "glacier": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "prairie": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "argue": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "dynamic": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "contradict": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "despise": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "cancel": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "sensitive": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "confirm": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "eventually": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "compassion": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "particle": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "disguise": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "stroke": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "transparent": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "anniversary": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "annual": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "wisdom": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "predict": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "static": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "drift": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fairy": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "modest": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "troop": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "efficient": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "physical": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "integrate": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "virtual": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "differ": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "stretch": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "civil": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "scarce": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "scheme": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "harvest": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "tease": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "absorb": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "humid": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "prestige": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "reassure": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "due": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ritual": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "credit": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "secure": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "register": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "ray": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "faculty": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "charm": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "essential": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bury": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "urge": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "frequent": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "ignore": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "principle": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "manipulate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "commerce": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "translate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "acquire": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "informal": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "therapy": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "subtle": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "pray": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "judge": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "offspring": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "annoy": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "ensure": {
+    "interval": 16384,
+    "next": "2071-06-13"
+  },
+  "commute": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "addict": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "confine": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "rear": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "correct": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "edit": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "haven": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "extraordinary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "vulnerable": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "syndrome": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "absurd": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "scenery": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "vacant": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "odor": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "headline": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "earn": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "select": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "intelligible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "magnificent": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "outlook": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "precise": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "fare": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "discount": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "economy": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "plug": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "evidence": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "retail": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "accumulate": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "subordinate": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "liquid": {
+    "interval": 4,
+    "next": "2026-07-03"
+  },
+  "explicit": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "insert": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "thesis": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "drown": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "partial": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "dissolve": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "nuclear": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "render": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "shrink": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "molecule": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "eliminate": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "award": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "soak": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "abundant": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "rejoice": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "component": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "clarify": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "twist": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "surrender": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "nerve": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "mild": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "cortex": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "deny": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "perspective": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "mill": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "notorious": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "material": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "intense": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "enclose": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "rent": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "frown": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "sigh": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "diabetes": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stare": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "marine": {
+    "interval": 2,
+    "next": "2026-07-01"
+  },
+  "heritage": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "antique": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "geometry": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "spray": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "guard": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "jury": {
+    "interval": 1,
+    "next": "2026-06-30"
+  },
+  "linguistic": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "virus": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "tuition": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "peer": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "derive": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "disabled": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "pierce": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "inspect": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "category": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "commit": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "ruin": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "favor": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "typical": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ecology": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "witness": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "distract": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "protest": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "grief": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "thorough": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "steep": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "indifferent": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "incentive": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "punish": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tremendous": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "chew": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "consequence": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "artistic": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "appetite": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "fluid": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "religion": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "presence": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "optimistic": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "analogy": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "resident": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "blank": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "stem": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "pedestrian": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "strict": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "eternal": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "domestic": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "famine": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "infer": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "protein": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "external": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "penetrate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "flee": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "dispute": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "renew": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "specimen": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "sprawl": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "wealth": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "disregard": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "institution": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "usage": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "establish": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "shed": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "resource": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "rage": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fertile": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "import": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "contain": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "transport": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "innocent": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "complete": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "norm": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "likewise": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "sight": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "abstract": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "submit": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "consume": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "interact": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "leak": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "legal": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "manual": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "versus": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "prejudice": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "probable": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "uncover": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "candidate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "vessel": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "recession": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "significant": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "solitude": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "compel": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "enroll": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "despite": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "ancestor": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "neighborhood": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "delicate": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "mutation": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "plausible": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "account": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "prevent": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "monument": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "complex": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "theft": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "deceive": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "postpone": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "mere": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "halt": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "rural": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "mineral": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "graduate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "flock": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "vivid": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "narrative": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "revolution": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "actual": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "invade": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "biological": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "cereal": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "notion": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "vacuum": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "basin": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "reproduce": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "theory": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "repair": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "misunderstand": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "isolate": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "advent": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "conform": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "certain": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "swallow": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "expose": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "accuse": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "alien": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "profound": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "demand": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "ease": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "excel": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "cope": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "output": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "feat": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "passive": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fasten": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "toll": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "infrastructure": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "dose": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "cure": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "stern": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "criticize": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "court": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "deliberate": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "exotic": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "reserve": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "outcome": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "regret": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "wound": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "bulk": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "available": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "native": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "pollution": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "term": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "superior": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "treaty": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "weave": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "accompany": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "profession": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "rush": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "nightmare": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "deficit": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "prepare": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "delight": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "hollow": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "principal": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "spoil": {
+    "interval": 4096,
+    "next": "2037-10-21"
+  },
+  "tidy": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "offer": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "shield": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "grateful": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "adjust": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "evolve": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "habit": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "advocate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "value": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "obese": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "discourage": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "target": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "entertain": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "obsolete": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "divert": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "ideology": {
+    "interval": 1024,
+    "next": "2029-05-24"
+  },
+  "own": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "gross": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "ultimate": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "justify": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "convenient": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "disclose": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "descend": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "intermediate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "accomplish": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "sensation": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "trail": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "reinforce": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "resort": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "medium": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "oppose": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "request": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "originate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "gallery": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "reduce": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "despair": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "supervisor": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "estimate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "increase": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ancient": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "create": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bleed": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "breathe": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "deprive": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "constant": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "roam": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "bond": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "defect": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "immune": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "spouse": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "amuse": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "formation": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "contribute": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "worth": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "violate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "refuse": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "swift": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "reluctant": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "assault": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "counterpart": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "personnel": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "possess": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "issue": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "toxic": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "consent": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "tempt": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "wilderness": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "territory": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "dump": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "timber": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "compromise": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "dare": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "endanger": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "seize": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "royal": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "depression": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "opponent": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "fake": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "investigate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "arrest": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "adapt": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "convey": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "humanity": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "article": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "fortune": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "tropical": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "beat": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "script": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "sibling": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "doctrine": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "cease": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "intimate": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "innovation": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "resume": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "crude": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "sum": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "agriculture": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "respect": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "sacrifice": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "enrich": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "swear": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "succeed": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "tap": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "fantasy": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "ideal": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "crisis": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "pitch": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "enhance": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "sob": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "entitle": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "comply": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "drain": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "prey": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exclaim": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "survey": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "convict": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "precede": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "relate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "vary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "astronomy": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "approximate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "similar": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "confuse": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "rotate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "reception": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "prehistoric": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "criterion": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "emotion": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "duty": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "gravity": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "summon": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "obstacle": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "reveal": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "technology": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "negative": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "load": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "naked": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "harm": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "compensate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "reward": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "gain": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "elect": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "courtesy": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "worship": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "compliment": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "obey": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "strain": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "maximum": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "panic": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "snatch": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "fossil": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "evaluate": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "incredible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "bully": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "seal": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "refine": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mature": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "erect": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "inform": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "diversity": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "meaningful": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "respond": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "ambition": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "phase": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "overwhelm": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "access": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "undermine": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "predator": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "waste": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fundamental": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "avoid": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "desert": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "slight": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "deadline": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "merchandise": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "imperial": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "subsequent": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "attain": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "galaxy": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "situation": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "audience": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "congestion": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "poll": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "garment": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "revenue": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "eclipse": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "cynical": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "dimension": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "outstanding": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "steady": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "breed": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "plague": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "tomb": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "force": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "awkward": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "shelter": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "consist": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "gear": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fetch": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "sole": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "focus": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "landscape": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "abuse": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "withdraw": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "abolish": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "mammal": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "context": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "manner": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "enterprise": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "arise": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "manufacture": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "offend": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "signature": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "drastic": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "absolute": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "aesthetic": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "anthropology": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "contempt": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "initial": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "semester": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "retreat": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "violent": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "monitor": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "mobile": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "fraction": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "authority": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "biography": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "produce": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "supplement": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "attract": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "hazard": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bias": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "cabinet": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "prescribe": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "feminine": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "sensory": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "fragile": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "assume": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "orbit": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "blade": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "manuscript": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "consult": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "raw": {
+    "interval": 2048,
+    "next": "2032-03-13"
+  },
+  "vice": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "decay": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "indicate": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "terrify": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "prosper": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "indigenous": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "frame": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "latter": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "challenge": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "probe": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "substitute": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "penalty": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "trade": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "reef": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stable": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "attend": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "rude": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "appeal": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "remove": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "weapon": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "evoke": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "emergency": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "converse": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "invest": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "cell": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "contrast": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "concrete": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "microbe": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "capable": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "enable": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "scope": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "campaign": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "restrict": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "encyclopedia": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "lawyer": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "provoke": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "warrior": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "fame": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "urgent": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tame": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "liable": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "inquire": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "pretend": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "hinder": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "vote": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "dumb": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "transmit": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "synthesis": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "bloom": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "ratio": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "pose": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "refer": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "equivalent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "comprise": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "attribute": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "column": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "trivial": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "vast": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "wander": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "interpret": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "prefecture": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "simultaneously": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "vocabulary": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "justice": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "propose": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "commodity": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "corporation": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "skip": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "colony": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "courage": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "recognize": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "distribute": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "minor": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "rubbish": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "internal": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "stock": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "exist": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "grace": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "disturb": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "personality": {
+    "interval": 512,
+    "next": "2027-12-29"
+  },
+  "flourish": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "aim": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "experiment": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "radical": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "transform": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "persuade": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "gloomy": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "debt": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "philosophy": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "manage": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "suppose": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "jail": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "financial": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "transition": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "anticipate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "scan": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "deliver": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "bargain": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "compatible": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "prompt": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "accord": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "alert": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "command": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "previous": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "oral": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stereotype": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mess": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "alarm": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "intelligent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "affect": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "yield": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "expense": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "ward": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "assess": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "memory": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "soothe": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "withstand": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "neat": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "impair": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "aisle": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "promote": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "plastic": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "spiritual": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "stiff": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "cruel": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "outline": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "harsh": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "masterpiece": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "administration": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "affluent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "threat": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "universal": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "crack": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "crawl": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "income": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "brave": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "impulse": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "verbal": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "distinct": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "function": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "digest": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "eager": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "suffer": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "mold": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "share": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "sympathy": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "positive": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "quit": {
+    "interval": 256,
+    "next": "2027-04-17"
+  },
+  "praise": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "thrill": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "asset": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "sore": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "sentiment": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "leap": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "metropolitan": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "unify": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "stake": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "county": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "practice": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "interrupt": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "alter": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "occur": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "stray": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "coincide": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "willing": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "recent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "apply": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "prominent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "swell": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "entire": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "export": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "permanent": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "restore": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "client": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "proverb": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "undergraduate": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "treat": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "represent": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "bankrupt": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "spill": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "suck": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "trigger": {
+    "interval": 128,
+    "next": "2026-12-10"
+  },
+  "mode": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "trap": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "tissue": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "cause": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "collision": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "genuine": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "inevitable": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "exaggerate": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "attach": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "fold": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "herd": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "torture": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "cram": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "rhyme": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "induce": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "strategy": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "thrive": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "depict": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "emit": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "sophisticated": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "habitat": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "grain": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "acute": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "destiny": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "moisture": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "skeptical": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "accommodate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "cling": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "tide": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "distress": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "celebrate": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "trait": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "premise": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "innate": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "priest": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "grocery": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "organize": {
+    "interval": 64,
+    "next": "2026-10-07"
+  },
+  "presume": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "approve": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "chaos": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "landmark": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "satisfy": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "consider": {
+    "interval": 32,
+    "next": "2026-09-05"
+  },
+  "hygiene": {
+    "interval": 1,
+    "next": "2026-08-06"
+  },
+  "calculate": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "shallow": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "puzzle": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "upset": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "millennium": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "council": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "mixture": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "owe": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "effect": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "store": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "pity": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "operate": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "venture": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "realize": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "dialect": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "admire": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "supreme": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "express": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "freeze": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "barrier": {
+    "interval": 16,
+    "next": "2026-08-20"
+  },
+  "combat": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "allege": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "timid": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "weird": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "circumstance": {
+    "interval": 2,
+    "next": "2026-08-06"
+  },
+  "thrust": {
+    "interval": 2,
+    "next": "2026-08-07"
+  },
+  "boost": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "chat": {
+    "interval": 8,
+    "next": "2026-08-12"
+  },
+  "federal": {
+    "interval": 4,
+    "next": "2026-08-08"
+  },
+  "comfort": {
+    "interval": 2,
+    "next": "2026-08-06"
+  }
+}
