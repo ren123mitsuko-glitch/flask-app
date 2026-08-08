@@ -1,0 +1,1789 @@
+range,word,meaning
+book1,evil,邪悪な
+pre1,absorb,"を吸収する, を吸い込む; を取り込む; を緩和する accuse Aを訴える, 告発する, 起訴する"
+pre1,adapt,"AをBに適合させる, 当てはめる"
+pre1,argue,"言い争う, 口論する; Aのことで口論する"
+pre1,assert,"を断言する; …ということを断言する; 明言する; …と断言する, 言い張る"
+pre1,associate,"…を連想する; AとBを結びつける, AでBを連想する"
+pre1,bet,を賭ける; AをBに賭ける
+pre1,betray,"を裏切る, を裏切って傷つける; を破る; を漏らす"
+pre1,bite,"をかむ, …にかみつく, …をかみちぎる"
+pre1,bother,"を悩ませる, 困らせる; Aが…ということで困る; Aが…することを苦にする"
+pre1,cancel,"を取り消す, 中止する; を無効にする; を運休にする"
+pre1,capture,"を逮捕する, 捕らえる; 捕虜にする"
+pre1,cheat,"をだます, 欺く; AからBをだまし取る; Aをだまして…させる"
+pre1,chew,"をかむ; よくかんで食べる, かみ砕く, 咀嚼する"
+pre1,chop,"…をたたき切る, ぶつ切りにする, 切り刻む, たたき折る; AをBに細かく切る, Aを切ってBにする; AのためにBを切ってやる"
+pre1,collapse,"崩れ落ちる, 倒壊する, 崩壊する"
+pre1,concentrate,"集中する, 精神を集中させる; 専念する, 全力を注ぐ"
+pre1,conduct,"を行う, 進める, 管理する; を経営する"
+pre1,consider,"をよく考える, 熟慮する; …しようかとよく考える"
+pre1,convince,を納得させる; Aに…ということを納得させる
+pre1,cough,せきをする; せき払いする
+pre1,deceive,"をだます, 欺く, 惑わす; Aをだまして…させる"
+pre1,decline,"減少する; 低下する; 衰える, 衰退する; 下落する"
+pre1,decorate,"を飾る, 装飾する; を飾る"
+pre1,decrease,"減少する, 縮小する"
+pre1,define,を定義する; AをCと定義する
+pre1,depart,"出発する, 出る"
+pre1,determine,"を特定する, 明らかにする"
+pre1,discourage,"を妨害する; を抑止する; Aに…することを思いとどまらせる, やめさせる"
+pre1,distinguish,を識別する; AをBと区別する; AとBを見分ける
+pre1,drag,"Aを引きずる, 引きずって運ぶ; Aを引きずっていく; を引きずる; …を引く"
+pre1,emerge,"現れる, 出てくる"
+pre1,employ,"を雇う, 雇い入れる"
+pre1,enclose,"を同封する, 封入する"
+pre1,encounter,"に直面する, 遭う"
+pre1,endure,～に耐える
+pre1,entertain,"をおもしろがらせる, 楽しませる"
+pre1,fade,"消える, 暗くなる, 小さくなる; 色あせる, 薄くなる"
+pre1,fasten,"を留める, 締める, 結ぶ"
+pre1,flee,"逃亡する, 逃れる"
+pre1,focus,"焦点を合わせる, 集中する, 着眼する, 関心が向く; 焦点が合う, 焦点をしぼる"
+pre1,graduate,卒業する; 学士号を取る
+pre1,grasp,"を握る, つかむ"
+pre1,guarantee,"を保証する, 確約する; を確実にもたらす; の保証人になる; の担保になる"
+pre1,heal,"治す,治る,癒す"
+pre1,identify,"を確認する, …の身元を確認する, …を同定する; AがCであるとわかる"
+pre1,imitate,"を見習う, 模範とする"
+pre1,import,"を輸入する; を持ち込む, 取り入れる"
+pre1,indicate,"を示す, …を指摘する; …ということを示す"
+pre1,inherit,"を相続する, 受け継ぐ; のあとを継ぐ"
+pre1,inspire,"を奮い立たせる, 鼓舞する; Aを奮起させて…させる; AをBへと奮起させる"
+pre1,interfere,"干渉する, 口出しする"
+pre1,invest,"を投資する, 投下する; をつぎ込む"
+pre1,involve,"…を含む, 伴う; …を必要とする; …に関連する; …することを含む"
+pre1,justify,"を正当化する, 正しいと証明する, 弁明する; …することを正当化する"
+pre1,launch,"を開始する, …に乗り出す, 着手する"
+pre1,locate,"を見つける, 捜し出す, を突き止める"
+pre1,manufacture,"を生産する, 製造する, 作る; を加工する"
+pre1,obtain,"を入手する, 獲得する, 取得する"
+pre1,overlook,"を見落とす, …に気づかない"
+pre1,preserve,"を保存する; を保護する, 守る"
+pre1,prolong,を引き伸ばす; を延長する
+pre1,promote,"…を促進する, 振興する; を推進する, 奨励する"
+pre1,purchase,"を購入する, 買う"
+pre1,pursue,を追求する; を続行する; に従う
+pre1,quit,"をやめる; を離れる, 辞職する"
+pre1,recall,を思い出す; …したことを思い出す; …と思い出す
+pre1,reduce,"を減少させる, 減らす"
+pre1,rejoice,"喜ぶ; …して喜ぶ, 歓喜する, うれしがる"
+pre1,release,"を解き放す, 自由にする; …を救出する"
+pre1,rely,頼る；～次第である
+pre1,replace,"Aに取って代わる, Aの跡を継ぐ"
+pre1,respond,"反応する, 応じる, 報いる"
+pre1,restrain,"を制止する, 禁じる; を拘束する; AにBをやめさせる"
+pre1,retire,引退する
+pre1,reveal,"を明らかにする, 暴露する; AがCだということを明らかにする"
+pre1,search,"を調べる; Bを求めてAを捜す, 捜索する"
+pre1,seize,"をつかむ, つかみ取る"
+pre1,skip,"飛び跳ねる, スキップする, はね回る"
+pre1,starve,餓死する; 飢えに苦しむ
+pre1,stir,"をかき回す, かき混ぜる; BでAをかき回す; AをBに混ぜ入れる"
+pre1,strip,を裸にする; を脱ぐ; 服を脱がされる
+pre1,submit,"を提出する, 提示する"
+pre1,suppose,"…することになっている, …しなければならない"
+pre1,surrender,"降伏する, 降参する; 捕虜になる, 自首する"
+pre1,sweep,"を掃く, 掃除する"
+pre1,tend,"…しがちである, …する傾向がある, よく…になる"
+pre1,threaten,"Aを脅す, 脅迫する; をすると脅す"
+pre1,transfer,"を転任させる, 転勤させる; を移転する"
+pre1,vanish,"消える, 姿を消す, 見えなくなる"
+pre1,abolish,"を廃止する, 撤廃する"
+pre1,appreciate,のよさを認める; …を評価する
+pre1,assign,"をあてる; AをBに割り当てる, AをBに課す; AをBに配分する"
+pre1,assure,"に保証する; を安心させる; Aに…ということを保証する節としない); AにBを保証する, 請け合う; …と言って安心させる"
+pre1,bump,"ぶつかる, ドシンと当たる"
+pre1,carve,"を彫る, 彫刻する"
+pre1,cease,"やむ, 終わる"
+pre1,chat,"雑談する, おしゃべりする"
+pre1,commit,"を犯す, をする"
+pre1,compose,"を構成する; 構成される, 成る"
+pre1,conceal,"Aを隠す, 隠し持つ; を覆い隠す"
+pre1,conclude,結論づける
+pre1,condemn,"を非難する, とがめる; BだとしてAを責める, 糾弾する"
+pre1,confront,の前に立ちはだかる; Aに直面する
+pre1,constitute,"を構成する, …の構成要素となる; …をなす, …に等しい"
+pre1,consume,"を消費する, 消耗する, 使い果たす; …を浪費する"
+pre1,convert,"を変える, 転換する; 改造する, 改築する"
+pre1,convey,"を伝える, 伝達する, 知らせる; …だと知らせる"
+pre1,cultivate,"を耕す, 耕作する; を栽培する, を養殖する, を培養する"
+pre1,deprive,"AからBを奪う, 剝奪する; AにBを与えない"
+pre1,derive,"BからAを得る, 引き出す, 派生させる"
+pre1,despise,"をひどく嫌う, 軽蔑する"
+pre1,detect,"を見つける, 見抜く, 突き止める; 検知する"
+pre1,devote,"AをBにささげる, 向ける; AをBに割く, 当てる"
+pre1,discharge,"を解放する; …を退院させる, 釈放する; …を免除する"
+pre1,dispose,"を配置する, 配列する"
+pre1,dissolve,溶ける; 溶けてなる; 溶けて消える
+pre1,edit,"を校閲する, 削除する; を編集する, …に修正を加える"
+pre1,engage,"を引く, 引きつける; AをBに引き込む, 加える"
+pre1,ensure,"…を確実にする, 保証する; …ということを保証する, 確実に…であるようにする"
+pre1,evaluate,"…の良し悪しを評価する, …を査定する; …かを評価する"
+pre1,exclaim,…と叫ぶ; …ということを突然叫ぶ
+pre1,expand,"ふくらむ, 膨張する; 広がる"
+pre1,extend,"Aを拡大する, 広げる"
+pre1,forbid,"Aに…することを禁じる, 差し止める, 許さない; …することを禁じる"
+pre1,furnish,"に家具などを備え付ける; AにBを備え付ける, 設備する"
+pre1,grind,"を挽く, 砕く; Aを挽いてBにする; を作る"
+pre1,illustrate,"を説明する, 例解する, 解説する; …かを例で説明する"
+pre1,imply,"を暗示する, それとなく示す, 暗に意味する, ほのめかす; …だとそれとなく示す"
+pre1,impose,"課す,押し付ける,無理を強いる"
+pre1,interpret,解釈する
+pre1,modify,"を修正する, 変更する; Aを…するよう修正する"
+pre1,mourn,"を悲しむ, 嘆く; の死を悼む, を追悼する"
+pre1,negotiate,"交渉する, 協議する, 話し合う; 交渉する"
+pre1,omit,を除外する; あえて省く; うっかり落とす
+pre1,originate,"生じる, 起こる, 始まる, 起源がある"
+pre1,overcome,"を克服する, に打ち勝つ, …を乗り越える"
+pre1,overtake,"を追い越す, 追い抜く"
+pre1,perish,"非業の死を遂げる, 惨死する"
+pre1,pierce,"を刺す, 貫く, 突き通す, …に穴をあける"
+pre1,pinch,"をつねる, ひねる; を締めつける; をはさむ"
+pre1,plunge,"突っ込む, 落下する"
+pre1,portray,～を描く
+pre1,prevail,"広く行き渡っている, 流行している"
+pre1,proclaim,"を宣言する, 公布する; …と宣言する; AをCであると宣言する"
+pre1,prohibit,を禁止する; …するのを禁止する(しばしば受け身で;
+pre1,prompt,を刺激する; Aに…するよう促す
+pre1,prosper,繁栄する; 成長する
+pre1,quote,を引用する; の言葉を引用する; を口頭で言う; …と引用して言う
+pre1,react,"反応する, 対応する; 反応する"
+pre1,recruit,"を規に採用する, 受け入れる"
+pre1,refine,"を洗練する, 向上させる; を上品にする"
+pre1,regulate,"を規制する, 取り締まる, 統制する"
+pre1,relieve,"を取り除く, 和らげる; を紛らわす"
+pre1,renew,"を更する, 継続する; を継続して借りる"
+pre1,reproduce,を複写する; 転載する; 再版する
+pre1,resign,"を辞職する, 辞任する, 退陣する, やめる"
+pre1,resolve,"を解決する; を解消する, 晴らす"
+pre1,retain,"を保持する, 保つ, 持ち続ける, 失わない; を雇い続ける"
+pre1,revive,"を蘇生させる, …の息を吹き返させる; …を元気づかせる, 回復させる"
+pre1,scratch,削る
+pre1,shrink,"縮む, 小さくなる"
+pre1,snatch,"をひったくる, 強奪する, かっぱらう; すばやく取る, ひっつかむ"
+pre1,soar,"急上昇する, 急騰する"
+pre1,sob,"むせび泣く, 泣きじゃくる, 嗚咽する"
+pre1,sparkle,"輝く, きらめく, きらきら光る"
+pre1,specialize,"専門にする, 専攻する"
+pre1,startle,"をびっくりさせる, どきっとさせる"
+pre1,steer,"を操縦する, …の舵をとる"
+pre1,stimulate,"を刺激する, 活気づける"
+pre1,strive,"奮闘する, 励む, 懸命になる; 闘う"
+pre1,stumble,"つまずく, よろける; よろめきながら歩く"
+pre1,sue,"を告訴する, …に訴訟を起こす"
+pre1,summon,"招集する,呼び出す,召喚する"
+pre1,suspend,"を一時停止する; を延期する, 見合わせる; の執行を猶予する"
+pre1,sustain,"を持続させる, 維持する"
+pre1,tighten,締め付ける
+target1900,create,を創り出す；を引き起こす
+target1900,increase,増加する（⇔ decrease ⇒ 223）；を増やす
+target1900,improve,を向上させる；よくなる
+target1900,mean,を意味する；（...する）つもりである（to do）
+target1900,own,を所有している；（事実・罪など）を認める
+target1900,include,を含む（⇔ exclude ⇒ 1009）
+target1900,consider,を見なす；について考える
+target1900,allow,を許す；を与える；（～を）考慮に入れる（for）
+target1900,suggest,を提案する；を暗示する
+target1900,produce,を生産する；を取り出す
+target1900,offer,を提供する，申し出る
+target1900,require,を要求する；を必要とする
+target1900,share,を共有する；を分担する
+target1900,store,を保存する；を蓄える
+target1900,tend,傾向がある；を世話する
+target1900,concern,〔受身形で〕心配している；〔受身形で〕（～に）関係する（with）；に関連する
+target1900,describe,について述べる，を説明する
+target1900,involve,を関与させる；を伴う
+target1900,reduce,を減らす；を（～に）変える（to）
+target1900,force,に強いる；を強要する
+target1900,bear,に耐える（≒ endure ⇒ 824）；を負う；を産む；を（心に）抱く
+target1900,affect,に影響を及ぼす（≒ influence ⇒ 49）；を感動させる
+target1900,deal,〔deal withで〕を処理する；〔deal inで〕を商う；を分配する
+target1900,avoid,を避ける
+target1900,relate,を関連づける；（～に）関連する（to）
+target1900,realize,に気づく；を実現する
+target1900,encourage,を奨励する；を励ます（⇔ discourage ⇒ 706）
+target1900,compare,を比較する；を（～に）たとえる（to）
+target1900,exist,存在する；生存する
+target1900,challenge,に異議を唱える；（人）に挑む
+target1900,depend,頼る；～次第である
+target1900,object,反対する；（...）と言って反対する（that節）
+target1900,demand,を要求する
+target1900,complete,を完成させる，仕上げる
+target1900,accord,一致；合意，協定
+target1900,interest,興味；利子；利害
+target1900,cause,原因（⇔ effect ⇒ 48）；理由；大義
+target1900,effect,影響，効果；結果
+target1900,influence,影響（力）
+target1900,situation,状況；（人の置かれた）立場
+target1900,environment,環境（≒ surroundings）
+target1900,skill,技能；熟練
+target1900,matter,事柄；問題；〔～s〕事態；〔the ～〕困難；物質
+target1900,view,（～についての）見解（on / about）；（～に対する）（特定の）見方（of）；眺め
+target1900,value,価値；価格；評価；〔～s〕価値観
+target1900,species,（生物の）種；種類
+target1900,thought,考え；思考
+target1900,memory,記憶（力）；（～の）思い出（of）
+target1900,practice,実践，実行；（社会の）慣習；練習
+target1900,benefit,利益，恩恵；給付金
+target1900,theory,学説；理論；原理；推測
+target1900,issue,問題（点）；発行（物）；発表
+target1900,experiment,（～を対象とする）実験（on）
+target1900,article,記事；条項；品物
+target1900,focus,焦点；関心の的
+target1900,subject,話題；科目；主題；被験者
+target1900,quality,質（⇔ quantity ⇒ 471）；特質
+target1900,term,（専門）用語；〔～s〕条件；〔～s〕間柄；学期
+target1900,statement,声明；主張；明細書
+target1900,material,材料，素材；資料；生地
+target1900,evidence,証拠
+target1900,technology,科学技術；応用技術
+target1900,appropriate,（～に）適切な（for / to）
+target1900,likely,ありそうな（⇔ unlikely ありそうもない）
+target1900,possible,可能な；可能性のある
+target1900,individual,個々の；個人の
+target1900,public,公の（⇔ private 私的な）；公衆の；公開の
+target1900,common,共通の；普通の；一般の
+target1900,certain,確信して；確かな；ある；一定の
+target1900,similar,似ている，類似した；同様の
+target1900,recent,最近の
+target1900,patient,忍耐強い；勤勉な
+target1900,particular,特定の；特別の；（～について）やかましい（about）
+target1900,physical,身体の（⇔ mental ⇒ 183）；物質的な；物理学の
+target1900,various,さまざまな；いくつかの
+target1900,available,手に入る；利用できる；手が空いている
+target1900,native,出生地の；原産の；生得の
+target1900,political,政治（上）の
+target1900,due,予定された；（支払）期日で；しかるべき
+target1900,blank,空白の；無表情な；がらんとした
+target1900,ancient,古代の；昔からの
+target1900,correct,正しい；適切な
+target1900,despite,～にもかかわらず（≒ in spite of）
+target1900,notice,に気づく
+target1900,refer,言及する，関連する；参照する
+target1900,approach,に近づく；に取り組む
+target1900,wonder,かなと思う；（に）驚く（at）
+target1900,recognize,を識別できる；を認める
+target1900,occur,起こる；心に浮かぶ；現れる
+target1900,argue,"と主張する（≒ claim ⇒ 110, maintain ⇒ 206）；議論する"
+target1900,claim,と主張する；を（自分のものとして）要求する
+target1900,express,を表す，述べる
+target1900,waste,を浪費する，無駄にする
+target1900,advance,を進歩させる；を進める；進歩する；進む
+target1900,spread,を広める；広がる
+target1900,prepare,を準備する；を調理する；（～のために）準備をする（for）
+target1900,gain,を獲得する；（を）増す
+target1900,establish,を確立する；を設立する
+target1900,supply,を供給する
+target1900,suppose,と思う；と仮定する
+target1900,perform,（を）行う；（を）演じる，（を）演奏する
+target1900,prefer,のほうを好む
+target1900,determine,を決定する；を正確に知る
+target1900,treat,を扱う；を治療する
+target1900,prove,を証明する；判明する，わかる
+target1900,apply,を適用［応用］する；申し込む；（～に）適用される（to / in）
+target1900,mention,に言及する；と言う
+target1900,contain,を含む；を収容する；（感情など）を抑える
+target1900,regard,を見なす；を見る；を評価する
+target1900,respect,を尊敬する；を尊重する
+target1900,search,捜す；を捜索する；を詳しく調べる
+target1900,connect,をつなぐ；を関連づける
+target1900,decline,減少する；衰退する；を断る
+target1900,prevent,を妨げる；を防ぐ
+target1900,suffer,苦しむ；患う；（苦痛など）を経験する
+target1900,survive,を切り抜けて生き残る；より長生きする；生き延びる
+target1900,publish,を出版する；を公表する
+target1900,opportunity,機会（≒ chance）
+target1900,industry,産業；勤勉（≒ diligence）
+target1900,medium,（情報伝達の）媒体；手段
+target1900,economy,経済（状態）；経済圏；節約
+target1900,account,説明；勘定；口座
+target1900,trade,貿易；商売，取引
+target1900,figure,数字；姿；人物；図表
+target1900,cell,細胞；独房；電池
+target1900,emotion,感情，情動；感動
+target1900,stress,ストレス；圧力；強調
+target1900,decade,10年間
+target1900,range,範囲；射程距離；（同類の）組
+target1900,advantage,利点；優勢；有利
+target1900,method,方法；体系；秩序
+target1900,resource,〔通例～s〕資源；〔通例～s〕資金；才覚
+target1900,region,地域；領域；部位
+target1900,medicine,薬；医学
+target1900,detail,〔～s〕詳細（な情報），細部
+target1900,feature,特徴；〔通例～s〕顔つき；特集記事［番組］
+target1900,function,機能；関数
+target1900,access,利用，入手；接近（の機会・方法・権利）
+target1900,income,収入；所得
+target1900,attitude,態度；考え方，心構え
+target1900,aspect,（物事の）側面；観点；様相
+target1900,structure,構造；体系；構造物
+target1900,habit,習慣，癖
+target1900,positive,肯定的な；積極的な；確信して；（検査結果が）陽性の
+target1900,negative,否定的な；消極的な；（検査結果が）陰性の
+target1900,complex,複雑な；複合（体）の
+target1900,current,現在の；現代の；通用している
+target1900,mental,精神の；知能の；頭の中で行う
+target1900,specific,特定の；明確な，具体的な；（～に）特有の（to）
+target1900,significant,重要な，重大な；意義深い
+target1900,essential,（～に）必要不可欠な（to / for）；本質的な
+target1900,official,公用の；公式の；役所の
+target1900,financial,財政（上）の；財界の
+target1900,academic,学問の；大学の
+target1900,aware,気づいて，知って
+target1900,worth,（...する）に値する（doing）；の価値がある
+target1900,potential,潜在的な；可能性を秘めた
+target1900,active,積極的な；活動的な；効力のある
+target1900,mobile,可動［移動］式の；流動性のある
+target1900,novel,斬な，目しい
+target1900,plastic,柔軟な；プラスチックの，ビニールの
+target1900,chemical,化学の，化学的な
+target1900,necessary,必要な（≒ essential ⇒ 186）
+target1900,eventually,結局（は）
+target1900,identify,を特定する；を（～と）同一視する（with）
+target1900,represent,を表す；を代表する；に相当する
+target1900,indicate,を指し示す；を述べる
+target1900,manage,をなんとか成し遂げる；を管理する
+target1900,attend,に出席する；（を）世話する；（～に）対処［対応］する（to）
+target1900,maintain,を維持する；と主張する；を養う
+target1900,survey,を調査する；をじろじろ見る；を概観する
+target1900,replace,に取って代わる；を取り替える
+target1900,conduct,（調査・実験など）を実施する；を導く
+target1900,associate,を結び付けて考える；（～と）交際する（with）
+target1900,attempt,を試みる，企てる
+target1900,promote,を促進する；〔通例受身形で〕昇進する
+target1900,earn,を稼ぐ；を得る；をもたらす
+target1900,seek,を追い求める；（助けなど）を要請する
+target1900,observe,に気づく；を観察する；を遵守する
+target1900,reveal,を明らかにする；を見せる
+target1900,estimate,と推定する；を見積もる；を評価する
+target1900,reflect,を反映する；（を）反射する；（を）熟考する
+target1900,attract,を引きつける
+target1900,decrease,減少する（⇔ increase ⇒ 2）；を減らす
+target1900,ignore,を無視する
+target1900,match,（と）合う；に匹敵する；一致する
+target1900,define,を定義する；を明確にする
+target1900,adapt,適応する；を（～に）適合させる（to）
+target1900,contribute,貢献する，一因となる；（を）寄付する；（を）寄稿する
+target1900,display,を示す；を発揮する；を展示［陳列］する
+target1900,respond,反応する；答える
+target1900,hide,を隠す（≒ conceal ⇒ 1116）；隠れる
+target1900,doubt,ではないと思う；を疑う
+target1900,remove,を取り除く；を解雇する
+target1900,assume,を当然のことと思う，と仮定する；（権力など）を手に入れる；（責任など）を引き受ける
+target1900,relax,くつろぐ；緩む；をくつろがせる；を緩める
+target1900,satisfy,を満足させる；（条件など）を満たす
+target1900,desire,を強く望む
+target1900,succeed,（～に）成功する（in）；（～を）継承する（to）
+target1900,device,装置，機器；方策；デバイス
+target1900,charge,料金；世話；管理；告発
+target1900,contrast,（～との）対照（with / to）
+target1900,colleague,（職場の）同僚
+target1900,pain,苦痛，痛み；苦悩；〔～s〕骨折り
+target1900,bill,請求書；【英】勘定書（≒ 【米】check）；法案
+target1900,content,内容，中身；コンテンツ
+target1900,audience,〔集合的に〕聴衆，観客；視聴者
+target1900,surface,表面；〔the ～〕外見
+target1900,crop,〔しばしば～s〕作物；収穫高
+target1900,status,地位；状態
+target1900,option,選択（の自由）；選択肢
+target1900,reward,報酬；報い
+target1900,conflict,争い；論争；不一致
+target1900,struggle,闘い；懸命の努力
+target1900,context,状況，背景；文脈
+target1900,fuel,燃料；勢いを増加させるもの
+target1900,pollution,汚染，公害
+target1900,trend,（～への）傾向（toward）；流行
+target1900,strategy,戦略
+target1900,consequence,〔通例～s〕結果；重大性
+target1900,aim,目的，目標；狙い
+target1900,ancestor,祖先（⇔ descendant 子孫）；原型
+target1900,gene,遺伝子
+target1900,track,跡；軌道；【米】（鉄道の）番線；走路
+target1900,revolution,革命；回転；（天体の）公転（⇔ rotation 自転）
+target1900,progress,進歩；前進
+target1900,cognitive,認知の
+target1900,ideal,理想的な；観念的な
+target1900,efficient,効率的な；有能な
+target1900,universal,普遍的な；宇宙の；万能の
+target1900,vast,莫大な；広大な
+target1900,entire,全体の，全部の（≒ whole）；完全な
+target1900,familiar,精通している；よく知られている
+target1900,obvious,明らかな（≒ clear）
+target1900,ordinary,一般の，普通の；並の
+target1900,previous,以前の，前の
+target1900,rare,まれな，珍しい；希少な
+target1900,legal,法律の；合法の（⇔ illegal 違法の）
+target1900,independent,（～から）独立した（of / from）
+target1900,extreme,極端な；極度の，過激な
+target1900,actual,実際の，現実の
+target1900,willing,いとわない，かまわないと思う
+target1900,urban,都市の；都会的な（⇔ rural ⇒ 387）
+target1900,predict,を予言［予測］する
+target1900,examine,を調べる；を診察する；を尋問する
+target1900,trust,を信頼する；を（信頼して）託す
+target1900,stick,を動けなくする；を突き刺す；（～に）くっつく（to / on）
+target1900,emerge,現れる；明らかになる；台頭する
+target1900,vary,さまざまである；変わる；を変える
+target1900,release,を放出する；を解放する；を発表する
+target1900,divide,を分ける；分かれる
+target1900,enable,（人）が...できるようにする；を可能にする
+target1900,judge,（を）判断する；に判決を下す
+target1900,rely,頼る（≒ depend ⇒ 36）
+target1900,engage,を従事させる；を（～として）雇う（as）；（～に）従事する（in / with）
+target1900,adopt,を採用する；（態度など）をとる；を養子にする
+target1900,acquire,を得る；を習得する
+target1900,expand,（を）拡大する；（を）詳説する
+target1900,refuse,を拒む；を断る；拒絶する
+target1900,consume,を消費する；を食べる，飲む
+target1900,confuse,を混同する；を当惑させる
+target1900,select,を選ぶ，えり抜く
+target1900,evolve,（徐々に）発展する；進化する
+target1900,convince,を納得［確信］させる
+target1900,recall,を思い出す；を呼び戻す
+target1900,destroy,を破壊する；（人）を破滅させる
+target1900,preserve,を保存する；を保持する；を保護する
+target1900,organize,を準備する；を組織する
+target1900,warn,（人）に（～を）警告［注意］する（of / against）
+target1900,address,（問題など）に対処する；に演説する；（手紙など）を（～宛てに）出す（to）
+target1900,operate,を操作する；機能する；手術する
+target1900,participate,参加する
+target1900,surround,を取り巻く；にまつわる
+target1900,flow,流れる；（～から）生じる（from）
+target1900,complain,（と）不平［苦情］を言う；訴える
+target1900,combine,を（～と）結び付ける（with）；（～と）結び付く（with）
+target1900,extend,を伸［延］ばす；伸びる；及ぶ
+target1900,appreciate,を正当に評価する；を鑑賞する；を感謝する
+target1900,target,（到達・攻撃）目標；的
+target1900,principle,原則，原理；主義，信条
+target1900,phenomenon,現象
+target1900,atmosphere,〔the ～〕大気；雰囲気
+target1900,origin,起源；源
+target1900,personality,個性，性格
+target1900,profit,利益；収益（率）；得
+target1900,circumstance,〔通例～s〕状況，事情；境遇
+target1900,manner,〔～s〕作法；方法；物腰
+target1900,threat,脅威；（悪い）兆し；脅迫
+target1900,resident,居住者；滞在者
+target1900,wealth,富；資源；富裕
+target1900,institution,機関；協会；施設；制度
+target1900,authority,〔通例 the ～ties〕（関係）当局；権威；権限
+target1900,vote,投票；投票結果；〔the ～〕選挙権
+target1900,sight,光景；〔the ～s〕名所；見（え）ること；視野；視力
+target1900,campaign,運動；軍事行動
+target1900,analysis,分析（結果）（⇔ synthesis ⇒ 1868）
+target1900,version,（本・製品などの）版；解釈
+target1900,perspective,観点，見方；大局観；遠近法
+target1900,crisis,危機
+target1900,disaster,災害；惨事
+target1900,psychology,心理学；心理（状態）
+target1900,gender,（社会的・文化的）性，性別
+target1900,custom,（社会的な）慣習；〔～s〕税関；〔～s〕関税
+target1900,court,裁判所，法廷；裁判；宮廷；中庭
+target1900,desert,砂漠；不毛の地
+target1900,agriculture,農業；農学，畜産
+target1900,fossil,化石；時代遅れの人［物］
+target1900,document,（公）文書，書類；記録，資料
+target1900,vocabulary,語彙
+target1900,intelligent,聡明な；知能を有する
+target1900,conscious,意識して，気づいて（≒ aware）
+target1900,capable,能力がある；有能な
+target1900,accurate,正確な；精密な
+target1900,fundamental,基本的な；必須の
+target1900,artificial,人工の（⇔ natural 自然の）；不自然な
+target1900,overall,総合的な；全体的な
+target1900,rural,田舎の（⇔ urban ⇒ 299），田園の
+target1900,military,軍の，軍事（用）の
+target1900,nuclear,核の，原子力の
+target1900,biological,生物学（上）の
+target1900,constant,絶え間ない；一定の
+target1900,severe,（人・規律・事態・天気などが）厳しい；猛烈な
+target1900,visual,視覚の；目に見える
+target1900,enormous,莫大な，巨大な
+target1900,convenient,便利な，都合のいい
+target1900,domestic,家庭の；国内の；（動物が）飼いならされた
+target1900,mass,大規模な，大量の；大衆（向け）の
+target1900,typical,典型的な；（～に）特有の（of）
+target1900,nevertheless,それにもかかわらず（≒ nonetheless ⇒ 1000）
+target1900,demonstrate,を論証［証明］する；デモをする
+target1900,behave,振る舞う；作動する
+target1900,educate,を教育する；に教える；（能力など）を養う
+target1900,purchase,を購入する
+target1900,recommend,を勧める
+target1900,admit,（を）（しぶしぶ）認める；に（～への）入場［入学など］を認める（to / into）
+target1900,generate,を生み出す；（電気など）を発生させる
+target1900,explore,（を）調査［探究］する；（を）探検［探査］する
+target1900,amaze,をびっくりさせる
+target1900,tear,を引き裂く；裂ける
+target1900,settle,を解決する；（に）移り住む；を落ち着かせる
+target1900,afford,を持つ［する］余裕がある；を与える
+target1900,conclude,と結論づける；を締めくくる；を締結する
+target1900,advertise,を宣伝する；（～を求める）広告を出す（for）
+target1900,encounter,に遭遇する；に（思いがけず）出会う
+target1900,remind,に思い出させる
+target1900,locate,〔受身形で〕位置する；の位置を探し当てる
+target1900,aid,を援助する，助ける（≒ help）
+target1900,deliver,を配達する；（演説・講義）をする；子を産む
+target1900,perceive,に気づく；を知覚する；を理解する
+target1900,distinguish,を区別する
+target1900,imply,を暗に意味する；を必然的に伴う
+target1900,handle,を処理する，扱う；を論じる；を商う
+target1900,praise,を（～のことで）賞賛する（for）；賛美する
+target1900,appeal,訴える；抗議する；（上級審に）上訴する
+target1900,insist,（を）強く主張する；要求する
+target1900,compete,競う；〔通例否定文で〕（～に）匹敵する（with）
+target1900,deny,を否定する；を拒む
+target1900,reject,を拒否する
+target1900,intend,を意図する
+target1900,expose,をさらす；を暴露する；を露出する
+target1900,favor,に賛成する；を好む；をひいきする
+target1900,inspire,（人）を奮起させる；を喚起する
+target1900,propose,を提案する；をもくろむ；結婚を申し込む
+target1900,spell,（語）をつづる；という語になる
+target1900,breathe,呼吸する；を吸う
+target1900,repair,を修理する（≒ fix）；を修復する
+target1900,consist,（～から）成る（of）；（～に）ある（in）
+target1900,instruction,〔通例～s〕指示；〔～s〕（製品の）使用書
+target1900,religion,宗教；信条；信仰（心）
+target1900,neighborhood,地域；近所
+target1900,laboratory,実験室，研究室
+target1900,presence,存在；出席；面前
+target1900,confidence,自信；信頼；秘密
+target1900,harm,害，損害
+target1900,instrument,器具；楽器（≒ musical instrument）
+target1900,category,部類，区分；範疇
+target1900,capital,資本；首都；大文字（≒ capital letter）
+target1900,outcome,結果（≒ result）；成果
+target1900,notion,概念，観念；見解；意向
+target1900,review,（書物などの）論評；再調査；【米】復習
+target1900,trait,特性（≒ feature）
+target1900,diversity,多様性；相違点
+target1900,victim,犠牲（者），被害者
+target1900,occasion,場合，時；行事；機会
+target1900,facility,施設，設備；機能；才能
+target1900,stock,在庫品；蓄え；株
+target1900,conference,会議；協議
+target1900,humanity,人類；人間性；人情；〔（the） ～ties〕人文科学
+target1900,dialect,方言
+target1900,proportion,割合；部分；釣り合い
+target1900,lawyer,弁護士
+target1900,stuff,（漠然と）物；素材；素質
+target1900,comfort,快適さ；慰め
+target1900,philosophy,哲学；原理；人生観
+target1900,mammal,哺乳動物
+target1900,quantity,量（⇔ quality ⇒ 69）；分量
+target1900,landscape,風景；領域；状況
+target1900,tribe,部族；仲間
+target1900,organ,器官，臓器；組織；（パイプ）オルガン
+target1900,norm,規範；標準
+target1900,code,規範；暗号；法典
+target1900,substance,物質；実体；趣旨
+target1900,multiple,多様な；種々雑多な
+target1900,numerous,非常に数の多い
+target1900,widespread,広範囲にわたる；広く普及した
+target1900,sufficient,（～に；...するのに）十分な（for；to do）
+target1900,proper,適切な；正式の；〔名詞の後ろで〕主要な；（～に）固有の（to）
+target1900,linguistic,言語の，言語学の
+target1900,annual,年1回の，例年の；1年間の
+target1900,contemporary,現代の；同時代の；同年輩の
+target1900,contrary,（～と）反対の（to）
+target1900,strict,（規則などが）厳しい；厳格な
+target1900,civil,市民の；民間の；民事の（⇔ criminal 刑事の）
+target1900,odd,奇妙な（≒ strange）；奇数の
+target1900,superior,よりすぐれた（⇔ inferior ⇒ 1092）
+target1900,sensitive,敏感な；神経質な；微妙な
+target1900,violent,（人・気質などが）激しい；暴力的な
+target1900,virtual,仮想の；事実上の
+target1900,immediate,即座の；当面の；すぐそばの；直接の
+target1900,crucial,重要な
+target1900,interpret,を解釈する；（を）通訳する
+target1900,translate,を翻訳する；を（～に）変える（into）
+target1900,concentrate,（を）集中する
+target1900,request,に（...するように）頼む（to do）；を要請する
+target1900,criticize,を批判する；を批評する
+target1900,overcome,を克服する
+target1900,obtain,を得る
+target1900,inform,に知らせる；情報を提供する
+target1900,ensure,を確実にする（≒ make sure）；を守る
+target1900,grant,（人）に（許可・権利など）を与える；を認める
+target1900,freeze,凍る；を凍らせる；（計画・資金など）を凍結する
+target1900,oppose,に反対する；を対抗［対比］させる
+target1900,differ,異なる
+target1900,hate,をひどく嫌う；を残念に思う
+target1900,emphasize,を強調する；を重視する
+target1900,employ,を雇う（≒ give ～ a job）；を使う（≒ use）
+target1900,credit,（功績など）を（～に）帰する（to）；を信じる
+target1900,transform,を変える；変わる
+target1900,construct,を建設する（＝ build）；を構成する
+target1900,arise,生じる
+target1900,beat,を打ち負かす；（を）打つ，たたく
+target1900,regret,を後悔する
+target1900,alter,を変える；変わる（≒ change）
+target1900,absorb,を吸収する；を併合する；を夢中にさせる
+target1900,disappoint,を失望させる；（希望など）をくじく
+target1900,cure,を治す；を取り除く；（病気が）治る
+target1900,transport,を輸送する；を運ぶ
+target1900,rush,急いで行く；性急に行動する；をせき立てる
+target1900,blame,を責める；の責任を負わせる
+target1900,ban,を（法的に）禁止する；を締め出す
+target1900,fascinate,を魅了する
+target1900,recover,回復する；を取り戻す
+target1900,celebrate,を祝う；を挙行する
+target1900,manufacture,を製造する；をでっち上げる
+target1900,interact,影響し合う；相互に作用する
+target1900,arrange,の段取りをつける；を手配する；を配置する
+target1900,adjust,を調整する；を適合させる；順応する
+target1900,confirm,を確認する；を裏づける
+target1900,insight,見識，理解（力）；洞察力
+target1900,innovation,革；機軸
+target1900,budget,予算；経費
+target1900,fee,料金；謝礼
+target1900,expense,〔～s〕経費；費用；犠牲
+target1900,debt,借金，負債；恩義
+target1900,loan,貸付金，融資；貸すこと
+target1900,duty,義務；〔しばしば～ties〕職務；関税
+target1900,alarm,不安，恐れ；警報装置
+target1900,emergency,緊急（事態）
+target1900,minister,大臣；（プロテスタント系の）聖職者
+target1900,candidate,（～の）候補（者）（for）；志願者
+target1900,corporation,（大）企業；法人
+target1900,stereotype,固定観念；決まり文句
+target1900,depression,憂うつ；うつ病；不況；低気圧
+target1900,weapon,兵器，武器（≒ arms）
+target1900,immigration,（他国からの）移民，移住；入国管理
+target1900,barrier,（～に対する）障壁（against / to）；防壁
+target1900,mood,気分；機嫌；雰囲気
+target1900,routine,決まり切った仕事；いつもの手順
+target1900,discipline,規律，しつけ；訓練；懲戒；学問分野
+target1900,myth,作り話；神話
+target1900,hypothesis,仮説；憶測
+target1900,physician,【主に米】 医師（≒ doctor）；内科医
+target1900,client,顧客（≒ customer）；（弁護士などの）依頼人
+target1900,colony,植民地；集団居住地；（動植物の）コロニー
+target1900,statistics,統計；統計学
+target1900,grain,穀物；粒；きめ
+target1900,ingredient,材料，成分；（成功の）要因
+target1900,treasure,宝物，財宝；財産
+target1900,contract,契約（書）；協定
+target1900,welfare,福祉，幸福
+target1900,prime,主要な，最も重要な；最適な；極上の
+target1900,curious,好奇心の強い；奇妙な
+target1900,distinct,明らかに異なる；明瞭な
+target1900,anxious,心配して；切望して
+target1900,vital,必要不可欠な；活気のある；生命にかかわる
+target1900,conventional,従来の；月並みな
+target1900,abstract,抽象的な（⇔ concrete ⇒ 783）
+target1900,minor,重要でない；小さい（⇔ major ⇒ 88）
+target1900,extraordinary,並はずれた；異常な，驚くべき
+target1900,stable,安定した（⇔ unstable 不安定な）；動じない
+target1900,flexible,融通の利く，柔軟な
+target1900,brief,簡潔な；短い
+target1900,aggressive,攻撃的な；意欲的な
+target1900,visible,（目に）見える（⇔ invisible 見えない）；明白な
+target1900,ethnic,民族の，人種の；民族特有の
+target1900,alien,（～にとって）異質の（to）；外国の；宇宙人の
+target1900,initial,初めの
+target1900,exact,正確な；まさにその
+target1900,precise,正確な（≒ exact）；精密な；まさにその
+target1900,latter,後者の（⇔ former 前者の），後半の
+target1900,commit,〔commit oneselfまたは受身形で〕献身する；（罪など）を犯す；を投入する
+target1900,stimulate,を刺激する
+target1900,enhance,（価値など）を高める，増す
+target1900,pursue,を追求する；に従事する
+target1900,react,反応する；化学反応を起こす
+target1900,stare,じっと見る；を見つめる
+target1900,abandon,を捨てる；を放棄する，断念する
+target1900,quit,をやめる；（場所）を去る
+target1900,capture,をとらえる；をとりこにする
+target1900,transfer,を移す；を伝える；移る；乗り換える
+target1900,bother,を悩ます；（～を）気にかける（about / with）
+target1900,persuade,を説得する；に確信させる
+target1900,rent,を賃借りする；を賃貸しする
+target1900,breed,を繁殖させる，育てる；繁殖する
+target1900,invest,（を）投資する；に（～を）与える（with）
+target1900,reserve,を予約する；を取っておく；（判断など）を保留する
+target1900,trace,（足跡・起源など）をたどる；を捜し出す
+target1900,illustrate,を説明する；に挿絵を入れる
+target1900,convey,を伝える；を運ぶ，運搬する
+target1900,attach,を（取り）付ける；を付与する
+target1900,stretch,を伸ばす；を広げる；伸びる；及ぶ
+target1900,puzzle,を当惑させる
+target1900,disturb,をかき乱す；を妨害する；を動揺させる
+target1900,crash,衝突する，墜落する；をぶつけて壊す
+target1900,cope,うまく処理する
+target1900,permit,を許可する（≒ allow）（⇔ forbid ⇒ 1013）
+target1900,impress,を感動させる；に印象を与える
+target1900,suspect,ではないかと思う；（人）を疑う
+target1900,upset,を動揺させる；をだめにする
+target1900,frighten,（人）を怖がらせる
+target1900,import,を輸入する（⇔ export （を）輸出する）；を取り込む
+target1900,export,（を）輸出する（⇔ import を輸入する）
+target1900,investigate,を調査する；を究明する；（～を）調査する（into）
+target1900,monitor,を監視する；を傍受する
+target1900,calculate,を計算する；を予測する
+target1900,eliminate,を取り除く
+target1900,ease,を軽減する；和らぐ；緩む
+target1900,launch,を開始する；を売り出す；を発射する
+target1900,sequence,連続；一連（のもの）
+target1900,therapy,療法；心理療法
+target1900,symptom,症状；兆候（≒ sign）
+target1900,incident,出来事，事件；紛争
+target1900,witness,目撃者（≒ eyewitness）；証人；証拠，証言
+target1900,sum,（金）額；合計；要点
+target1900,burden,負担；（重い）義務；積み荷
+target1900,honor,光栄；名誉（⇔ dishonor 不名誉）；敬意
+target1900,award,（～の）賞（for）；（証書などの）授与
+target1900,priority,優先（事項）
+target1900,logic,論理；道理；論理学
+target1900,minimum,最小限度（⇔ maximum ⇒ 965）
+target1900,exception,（～の）例外（to）
+target1900,clue,（～の）手がかり（to / about）；（パズルの）ヒント
+target1900,bond,絆；債券；束縛；接着剤
+target1900,virus,ウイルス；（感染症の）病原体
+target1900,insurance,保険；保険料；保険金
+target1900,frame,枠，（額）縁；骨組み；体格
+target1900,shelter,避難（所），保護
+target1900,territory,領土；（活動の）領域；（動物の）テリトリー
+target1900,boundary,境界（線）；〔通例～ries〕限界
+target1900,habitat,生息地；（人の）居住地
+target1900,district,地区；行政区
+target1900,conservation,（動植物などの）保護；保存
+target1900,harvest,収穫（物）；収穫期；漁獲高
+target1900,predator,捕食動物；略奪者
+target1900,trap,わな；苦境
+target1900,fault,〔通例one's ～〕責任；欠点；誤り
+target1900,discount,割引
+target1900,bias,偏見；傾向
+target1900,cooperation,協力，共同
+target1900,patent,特許（権）；特許品
+target1900,component,構成要素；部品
+target1900,reputation,評判；名声
+target1900,verbal,言葉の；口頭での；動詞の
+target1900,internal,内部の（⇔ external ⇒ 989）；国内の；内面的な
+target1900,solid,しっかりした；硬い；固体の
+target1900,remote,（～から）遠く離れた（from）；かけ離れた
+target1900,principal,主要な；資本金の
+target1900,sophisticated,高性能の，精巧な；洗練された
+target1900,equivalent,等しい，相当する
+target1900,rational,理性的な；合理的な
+target1900,relevant,関係がある；適切な
+target1900,absolute,絶対的な（⇔ relative 相対的な）
+target1900,frequent,頻繁な
+target1900,permanent,永続的な（⇔ temporary ⇒ 793）
+target1900,intense,強烈な；熱烈な
+target1900,meaningful,意味のある
+target1900,evil,邪悪な；有害な
+target1900,extinct,絶滅した；廃止された
+target1900,random,無作為の；手当たり次第の
+target1900,raw,生の；未加工の
+target1900,rude,無礼な（⇔ polite 礼儀正しい）；粗野な
+target1900,mere,単なる，ほんの
+target1900,tropical,熱帯の
+target1900,possess,を所有している；の心をとらえる
+target1900,dominate,を支配する；（～より）優勢である（over）
+target1900,guarantee,を保証する
+target1900,melt,溶ける；なごむ；を溶かす
+target1900,embarrass,に恥ずかしい思いをさせる
+target1900,discourage,（人）にやる気をなくさせる；を落胆させる（⇔ encourage ⇒ 30）
+target1900,detect,を感知する；を見つけ出す；に気づく
+target1900,devote,をささげる
+target1900,urge,に（強く）促す；を強く主張する；を駆り立てる
+target1900,lend,を貸す（⇔ borrow を借りる）；（人）に（助言・援助など）を与える
+target1900,restrict,を制限する
+target1900,isolate,を孤立させる
+target1900,accompany,に同行する；に付随する
+target1900,exhaust,を疲れ果てさせる；を使い尽くす；排気する
+target1900,annoy,を悩ます；〔受身形で〕腹が立つ
+target1900,endanger,を危険にさらす
+target1900,acknowledge,（事実など）を認める（≒ admit ⇒ 406）；に謝意を表す
+target1900,admire,に（～のことで）敬服［感心］する（for）
+target1900,evaluate,を評価する；を査定する
+target1900,declare,を宣言する；を申告する
+target1900,secure,を確保する；を守る
+target1900,specialize,専門とする；【英】（～を）専攻する（in）（≒ 【米】major）
+target1900,attribute,（結果など）を（～に）帰する（to）
+target1900,pretend,（の）ふりをする
+target1900,bury,を埋める；を埋葬する；を隠す
+target1900,reverse,を逆転させる；を反対にする
+target1900,resist,に抵抗する；〔通例否定文で〕を我慢する
+target1900,scare,をおびえさせる；を脅す
+target1900,imitate,をまねる；を模造する
+target1900,assist,（を）援助する；を手伝う
+target1900,resemble,に似ている
+target1900,retire,（～から）引退する，退職する（from）；退く
+target1900,neglect,をおろそかにする，怠る；を無視する
+target1900,collapse,崩壊する；（人が）倒れる；を折り畳む
+target1900,reform,を改革する；を改心させる
+target1900,protest,（に）抗議する；を主張する
+target1900,owe,に借りがある；のおかげである
+target1900,sustain,を持続させる；を支える
+target1900,assign,を割り当てる；を（～に）配属する（to）
+target1900,accomplish,を成し遂げる
+target1900,wisdom,知恵；賢明さ；学識
+target1900,heritage,遺産
+target1900,mission,使命；（外交）使節団；布教
+target1900,license,免許（証）；許可
+target1900,elite,〔通例the ～〕〔集合的に〕エリート
+target1900,layer,層
+target1900,protein,たんぱく質
+target1900,profession,職業；専門職；同業者仲間
+target1900,editor,編集者；編集長
+target1900,agent,仲介者，代理人；薬剤
+target1900,globe,地球（≒ earth）；世界；球
+target1900,haven,避難所，保護区；港
+target1900,row,列；（建物が並ぶ）通り
+target1900,sacrifice,犠牲；いけにえ
+target1900,means,〔単数・複数扱い〕手段；〔複数扱い〕資力，収入
+target1900,session,集まり；（議会の）会期；（開会中の）議会
+target1900,league,（競技）連盟；同盟
+target1900,guard,警備員；警備隊；監視，警戒
+target1900,opponent,（試合・論争などの）相手；反対者
+target1900,glance,（～を）ちらっと見ること（at）
+target1900,divorce,離婚；分離
+target1900,tissue,（生物の）組織；ティッシュペーパー
+target1900,liquid,液体
+target1900,prejudice,（～に対する）偏見（against）（≒ bias）
+target1900,justice,公正，正義；司法
+target1900,glacier,氷河
+target1900,usage,（使）用法；語法；習慣
+target1900,fortune,財産；幸運（≒ luck）；運命
+target1900,artistic,芸術的な
+target1900,literary,文学の；文語の（⇔ colloquial 口語体の）
+target1900,concrete,具体的な（⇔ abstract ⇒ 586）；有形の
+target1900,slight,わずかな；取るに足らない
+target1900,federal,連邦（政府）の
+target1900,primitive,原始的な；未開の
+target1900,subtle,微妙な；（気体などが）希薄な
+target1900,plain,明らかな；平易な；飾りのない；率直な
+target1900,marine,海の；船舶の
+target1900,apparent,明白な；一見～らしい
+target1900,reluctant,気が進まない，嫌がる（⇔ willing ⇒ 298）
+target1900,temporary,一時的な（⇔ permanent ⇒ 690）
+target1900,guilty,罪悪感のある；（～について）有罪の（of）
+target1900,royal,王の
+target1900,pure,純粋な；潔白な；まったくの
+target1900,incredible,信じられない；すばらしい
+target1900,eager,（～を）熱望して（for）；熱心な
+target1900,adequate,十分な；適切な（⇔ inadequate 不適切な）
+target1900,assess,を評価する；を査定する
+target1900,approve,賛成する；を承認する
+target1900,remark,と述べる；（～について）意見を述べる（on / upon）
+target1900,pose,（危険）を引き起こす；（問題など）を提起する；ポーズをとる；（～を）装う（as）
+target1900,yield,をもたらす；を（～に）譲る（to）；（～に）屈する（to）
+target1900,exhibit,を示す，見せる；を展示する
+target1900,distribute,を（～に）分配する（to）；〔受身形で〕分布する
+target1900,command,を命じる；を指揮する；（景色）を見渡せる
+target1900,occupy,（空間・時間）を占める；を占領する
+target1900,pile,を積み重ねる；積み重なる
+target1900,greet,に挨拶する；を迎える
+target1900,apologize,（～に；～のことで）謝る（to；for）；弁明する
+target1900,frustrate,をいら立たせる；（計画・希望など）を挫折させる
+target1900,relieve,を和らげる；〔受身形で〕（...して）安心する（to do）；を解放する
+target1900,derive,由来する；を引き出す；を推論する
+target1900,deserve,に値する
+target1900,peer,（～を）じっと見る（at / into）
+target1900,defeat,を負かす（≒ beat）；を失敗させる
+target1900,convert,を変える；を改宗［転向］させる；を交換する
+target1900,delight,を喜ばせる；（～を）大いに喜ぶ（in）
+target1900,boost,を押し上げる；を増加させる
+target1900,endure,に耐える（≒ put up with）；（に）持ちこたえる
+target1900,correspond,一致する；（～に）相当する（to）；文通する
+target1900,impose,を課す；を押しつける
+target1900,rescue,を救う
+target1900,resolve,を解決する；を決意する；を議決する
+target1900,register,を記録する，登録する；（～に）登録する（for）
+target1900,interrupt,を中断させる；（の）邪魔をする
+target1900,prohibit,を禁止する
+target1900,compose,を構成する；を創作する；を鎮静する
+target1900,misunderstand,（を）誤解する
+target1900,punish,を罰する；に損傷を与える
+target1900,ruin,をだめにする；を破滅させる；破滅する
+target1900,defend,を防御する；を弁護する
+target1900,embrace,を受け入れる；（を）抱擁する；を包含する
+target1900,modify,を修正する；を緩和する
+target1900,qualify,（人）に資格を与える；資格がある
+target1900,passion,情熱；熱中；激怒
+target1900,enthusiasm,（～への）熱情，熱意（for）
+target1900,phase,段階，局面；側面
+target1900,mode,方式；気分；形態；流行
+target1900,span,期間；範囲
+target1900,gravity,重力，引力；重量；重大さ
+target1900,orbit,軌道；（活動・勢力などの）範囲
+target1900,asteroid,小惑星（≒ minor planet）；ヒトデ（＝ starfish）
+target1900,core,核心；芯
+target1900,nerve,神経；〔～s〕神経過敏；（...する）度胸（to do）
+target1900,infection,感染（症）
+target1900,grocery,〔～ies〕食料雑貨；食料雑貨店
+target1900,instinct,本能；勘，直感；（自然に起こる）衝動
+target1900,faith,（～への）信頼（in）；信仰（心）
+target1900,courage,勇気
+target1900,incentive,動機（づけ）；報奨金
+target1900,prospect,見込み；〔～s〕（未来への）展望；有望な人
+target1900,obstacle,（～に対する）障害（物）（to）
+target1900,architecture,建築；建築様式；構造
+target1900,stem,（草木の）茎，幹
+target1900,illusion,錯覚，思い違い；幻想
+target1900,discrimination,（～に対する）差別（against）；区別
+target1900,shame,恥；残念なこと
+target1900,drought,干ばつ；（慢性的な）不足
+target1900,flavor,風味；特色
+target1900,portion,部分；1人前；割り当て
+target1900,recipe,調理法，レシピ；手順；秘訣
+target1900,luxury,ぜいたく（品）；〔形容詞的に〕豪華な
+target1900,ritual,儀式；（日常の）習慣的行為
+target1900,prefecture,（日本の）県，府；（フランスなどの）県
+target1900,council,（地方）議会；評議会；（公の）会議
+target1900,administration,管理（部）；行政；政府（機関）
+target1900,precious,貴重な；高価な（≒ valuable）
+target1900,generous,寛大な；気前のよい（⇔ stingy けちな）；豊富な
+target1900,casual,何気ない；形式ばらない
+target1900,optimistic,楽観的な（⇔ pessimistic ⇒ 1593）
+target1900,rough,粗い；大まかな；乱暴な
+target1900,Arctic,北極の（⇔ Antarctic 南極の）
+target1900,ultimate,究極の
+target1900,deaf,耳が聞こえない（≒ hard of hearing）
+target1900,genuine,"本物の（≒ authentic ⇒ 1580, real）；偽りのない"
+target1900,manual,体［手］を使う；手の；手動式の
+target1900,mechanical,機械の；機械的な
+target1900,spare,余分の，予備の
+target1900,immune,（～に対して）免疫を持つ（to）；（～を）免れた（from）
+target1900,harsh,厳しい；（光・色・味などが）不快な
+target1900,collective,集団の，共同の
+target1900,inevitable,避けられない
+target1900,profound,重大な；深い；難解な
+target1900,steady,着実な，一定の；安定した
+target1900,mature,成熟した（⇔ immature 未熟な）；熟した
+target1900,likewise,同様に（≒ in the same way）
+target1900,chase,（を）追跡する；（を）追求する
+target1900,sue,を告訴する；（～を求めて）訴訟を起こす（for）
+target1900,gaze,じっと見る
+target1900,load,に積む；に負わせる
+target1900,overwhelm,を圧倒する；を（精神的に）打ちのめす
+target1900,wander,歩き回る；それる；はぐれる
+target1900,float,漂う，浮かぶ；を浮かべる
+target1900,pour,を注ぐ；激しく降る；押し寄せる
+target1900,substitute,を代わりに使う；（～の）代理をする（for）
+target1900,pronounce,を発音する；を宣言する
+target1900,shrink,縮む，縮小する；減少する；ひるむ
+target1900,restore,を回復させる；を修復する
+target1900,trigger,を引き起こす；のきっかけとなる
+target1900,grab,をつかむ；を横取りする；を急いで食べる
+target1900,retain,を保持する；を覚えている
+target1900,reproduce,を複製する；を繁殖させる；繁殖する
+target1900,entertain,を楽しませる；をもてなす
+target1900,interfere,干渉する，介入する；邪魔する
+target1900,cultivate,を養う；を耕す；を栽培する
+target1900,underlie,の根底にある
+target1900,anticipate,を予期する；楽しみに待つ
+target1900,justify,を正当化する
+target1900,regulate,を規制する；を調整する
+target1900,scan,を走査［スキャン］する；をざっと見る；を注意深く調べる
+target1900,classify,を分類する；を機密扱いにする
+target1900,submit,を提出する；〔submit oneselfで〕（～に）従う（to）
+target1900,lean,傾く；寄りかかる；をもたせかける
+target1900,bump,ぶつかる；をぶつける
+target1900,fold,を折り畳む；（両腕）を組む；（折り）畳める
+target1900,hesitate,躊躇する，ためらう
+target1900,mount,を据えつける；に着手する；（自転車など）に乗る；増える
+target1900,exceed,を超える；に勝る
+target1900,confront,に立ち向かう；（困難などが）に立ちはだかる
+target1900,consult,（に）相談する；を参照する
+target1900,fulfill,を実現させる；を果たす；を満たす
+target1900,privilege,特権，特典
+target1900,formation,形成；構成（物）；隊列
+target1900,dimension,側面，局面；次元；寸法
+target1900,sensation,感覚；大評判
+target1900,geography,〔the ～〕地理；地理学
+target1900,semester,【主に米】 （2学期制の）学期
+target1900,mill,製造工場；製粉所；粉ひき機
+target1900,abuse,乱用；虐待
+target1900,vice,（道徳上の）悪（⇔ virtue ⇒ 1078）；欠点
+target1900,fate,運命；結末；最期
+target1900,tragedy,悲劇（的な事態）（⇔ comedy 喜劇）
+target1900,wound,（銃弾・刃物などによる）傷；痛手
+target1900,metaphor,隠喩；比喩
+target1900,fare,（乗り物の）料金
+target1900,transition,移り変わり；過渡期
+target1900,maximum,最大限（⇔ minimum ⇒ 653）
+target1900,galaxy,星雲，銀河；〔the G～〕銀河系
+target1900,mineral,鉱物；ミネラル
+target1900,skeleton,骨格；骨組み；概略
+target1900,counterpart,相当する物［人］
+target1900,stroke,脳卒中；（ボールを）打つこと；（雷などの）一撃
+target1900,pedestrian,歩行者
+target1900,trail,（野山などの）小道；跡；手がかり
+target1900,ecology,生態学；生態系；環境保護
+target1900,sibling,きょうだい（の1人）
+target1900,ratio,比率
+target1900,mixture,混合（物）
+target1900,charm,魅力；お守り
+target1900,ambition,（～に対する）願望，野望（for）；野心
+target1900,prominent,卓越した；目立つ
+target1900,radical,急進的な；根本的な
+target1900,prompt,即座の，迅速な
+target1900,informal,形式ばらない，略式の（⇔ formal 正式の）；（言葉が）くだけた
+target1900,mutual,相互の；共通の
+target1900,neutral,中立の；（特徴・表情などが）はっきりしない
+target1900,alert,警戒して；敏速な
+target1900,polar,極地の；電極の
+target1900,fluent,流ちょうな
+target1900,external,外部の（⇔ internal ⇒ 680）；対外的な
+target1900,passive,受動的な；消極的な
+target1900,awful,ひどい；嫌な；ものすごい
+target1900,cruel,残酷な；むごい
+target1900,fake,偽の；見せかけだけの
+target1900,vulnerable,（攻撃などに）弱い，もろい；傷つきやすい
+target1900,urgent,緊急の
+target1900,spiritual,精神の（⇔ material ⇒ 73）；霊的な
+target1900,modest,謙虚な（≒ humble）；適度な；質素な
+target1900,keen,熱心な；鋭敏な；（感情・関心などが）強い
+target1900,negotiate,交渉する；を（交渉して）取り決める
+target1900,grasp,を把握［理解］する；をしっかり握る
+target1900,arrest,を逮捕する；を止める；（注意）を引く
+target1900,crack,ひびが入る；にひびを入れる
+target1900,tap,を軽くたたく；（液体）を出す；を盗聴する
+target1900,split,を分割する；を分担する；分裂する
+target1900,forecast,を予想［予測］する
+target1900,exclude,を除外する（⇔include を含む）
+target1900,overlook,を見落とす；を大目に見る；を見渡す
+target1900,burst,破裂する；（～を）突然始める（into）
+target1900,heal,（人・傷など）を治す；治る
+target1900,forbid,を禁じる（⇔permit 許可する）
+target1900,install,をインストールする；を設置する；を就任させる
+target1900,diminish,を減らす；減少する（≒decrease）
+target1900,cite,を引き合いに出す；を引用する
+target1900,quote,を引用する；を引き合いに出す
+target1900,dispute,に異議を唱える；（を）議論する
+target1900,distract,（注意など）をそらす
+target1900,cheat,をだます；不正をする
+target1900,foster,をはぐくむ；を養育する；を心に抱く
+target1900,obey,に従う；に服従する
+target1900,bend,を曲げる；を屈服させる；曲がる
+target1900,deprive,から（権利などを）奪う
+target1900,govern,（を）統治する、支配する
+target1900,log,〔log onで〕ログオンする；を記録する
+target1900,transmit,を伝える；（電波・信号など）を送る
+target1900,bully,をいじめる；を脅す
+target1900,leap,跳ぶ；さっと動く；急上昇する
+target1900,astonish,を驚かす
+target1900,thrill,をぞくぞくさせる；わくわくする
+target1900,nod,うなずく；会釈する；うとうとする
+target1900,bow,おじぎする；屈服する
+target1900,blend,を混ぜる；を調和させる；（～に）溶け込む（into）
+target1900,complicate,を複雑にする
+target1900,pitch,を投げる；倒れる；縦揺れする
+target1900,persist,続く；固執する
+target1900,dedicate,をささげる；を献呈する
+target1900,equip,に備えつける
+target1900,premise,前提；〔～s〕（建物を含めた）構内、敷地
+target1900,merit,利点（⇔demerit 欠点）；功績；真価
+target1900,sympathy,同情；（～に対する）共感（with/for）
+target1900,compliment,賛辞；表敬
+target1900,infrastructure,インフラ、基本的施設；（経済）基盤
+target1900,ray,光線；ひらめき、一筋の光明
+target1900,distress,苦悩；苦痛；困窮
+target1900,joint,関節；接合（部）
+target1900,expedition,遠征（隊）、探検（隊）
+target1900,adolescent,青年；青年期の
+target1900,shade,（日）陰；色合い；日よけ；微妙な相違
+target1900,jury,陪審（員団）；審査員団
+target1900,penalty,（刑）罰；罰金；ペナルティー
+target1900,faculty,能力、機能；学部；教授陣
+target1900,scheme,計画（≒plan）；体系；陰謀
+target1900,nutrition,栄養（の摂取）
+target1900,particle,（微）粒子；ほんのわずか
+target1900,molecule,分子；微粒子
+target1900,nationality,国籍；国民；国民性
+target1900,poll,世論調査；投票（数）
+target1900,fatigue,疲労（≒exhaustion）
+target1900,queue,【英】（順番を待つ）列
+target1900,curve,（道路などの）カーブ；曲線
+target1900,narrative,物語、話；（小説の）叙述部分、地の文
+target1900,fingerprint,指紋
+target1900,wilderness,荒野；（庭・町などの）放置された部分
+target1900,pesticide,殺虫剤；除草剤（≒herbicide）
+target1900,panic,パニック（状態）；狼狽
+target1900,fabric,織物、布（地）；構造
+target1900,fantasy,空想；幻想；幻想的作品
+target1900,fancy,（気まぐれな）好み；空想；思いつき
+target1900,virtue,美徳（⇔vice 悪）；長所；効能
+target1900,grateful,感謝している
+target1900,valid,妥当な；有効な
+target1900,elaborate,入念な；凝った
+target1900,moderate,適度な；穏健な
+target1900,dynamic,活動的な、精力的な；動的な（⇔static 静的な）
+target1900,brave,勇敢な（⇔cowardly 臆病な）；見事な
+target1900,brilliant,すばらしい；才能にあふれた；きらめく
+target1900,tremendous,途方もない、莫大な；すばらしい
+target1900,oral,口頭の
+target1900,innocent,無罪の（⇔guilty 有罪の）；無邪気な；無知の
+target1900,subsequent,その後の
+target1900,shallow,浅い（⇔deep 深い）；浅薄な
+target1900,indifferent,無関心な（≒uninterested）
+target1900,inferior,より劣った（⇔superior よりすぐれた）
+target1900,awkward,気まずい；ぎこちない；厄介な
+target1900,obese,肥満した
+target1900,pregnant,妊娠した；（～で）満ちている（with）
+target1900,intimate,親密な；密接な
+target1900,medieval,中世の；時代遅れの
+target1900,sacred,神聖な（≒holy）；宗教的な；厳粛な
+target1900,simultaneously,（～と）同時に（with）；一斉に
+target1900,versus,〔A ～ Bで〕A対B；AかBか
+target1900,proceed,進む，進行する；（～を）続行する（with）
+target1900,bind,を縛る；を束縛する；を結び付ける
+target1900,resort,（好ましくない手段に）訴える，頼る（to）
+target1900,reinforce,を強化する；を補強する
+target1900,accumulate,を蓄積する，集める；積もる
+target1900,bet,と確信する，断言する；（金などを）かける
+target1900,advocate,を主張する；を擁護する
+target1900,constitute,を構成する；になる，に等しい
+target1900,undertake,を引き受ける；を保証する；に着手する
+target1900,grip,を握る；をとらえる
+target1900,dismiss,（意見など）を退ける；を解雇する
+target1900,fade,薄れる；衰える
+target1900,conceal,を隠す（≒ hide）；を秘密にする（⇔uncover ⇒ 1236）
+target1900,chew,（を）かむ；をかみ砕く
+target1900,swallow,（を）飲み込む；をうのみにする；に耐える
+target1900,seal,を密閉する；に封をする
+target1900,exaggerate,（を）誇張する；を強調する
+target1900,accuse,を非難する；を告訴する
+target1900,vanish,消える（≒ disappear）
+target1900,polish,を磨く；を洗練させる
+target1900,sweep,（を）掃く；を一掃する；さっと通過する
+target1900,spoil,を台無しにする；を甘やかす；だめになる
+target1900,compound,を悪化させる；を合成する；を混合する
+target1900,explode,爆発する；急増する；を論破する
+target1900,disgust,をむかつかせる；に愛想を尽かせる
+target1900,commute,通勤［通学］する
+target1900,decorate,を装飾する
+target1900,postpone,を延期する（≒ put off）
+target1900,cease,をやめる；終わる
+target1900,compromise,妥協する；を危うくする
+target1900,elect,を選出する
+target1900,inherit,を受け継ぐ；を相続する
+target1900,rear,（人・動物・植物）を育てる（≒ raise）
+target1900,cue,合図；手がかり；（次の演技の）キュー
+target1900,enterprise,企業，事業；企画；進取の気性
+target1900,output,生産（高）；出力；排出（量）
+target1900,congress,（米国などの）議会；会議
+target1900,millennium,千年間，千年紀
+target1900,mankind,人類
+target1900,estate,（動産・不動産などの）財産；私有地
+target1900,caution,用心；警告
+target1900,controversy,論争
+target1900,consensus,総意；（意見の）一致
+target1900,retail,小売り（⇔ wholesale 卸売り）
+target1900,fiber,繊維（質）；本質；精神力
+target1900,scent,（よい）香り；香水
+target1900,beverage,（水以外の）飲み物，飲料
+target1900,supplement,栄養補助剤，サプリメント；補足
+target1900,diabetes,糖尿病
+target1900,province,州，省；〔the ～s〕地方；分野
+target1900,reef,（岩や砂の）礁；暗礁
+target1900,microbe,微生物；細菌
+target1900,excess,過剰，超過
+target1900,gallery,美術館，画廊；観客，ギャラリー；回廊
+target1900,fame,名声
+target1900,deadline,締め切り
+target1900,undergraduate,学部学生
+target1900,slavery,奴隷制度；苦役
+target1900,prey,獲物；犠牲者
+target1900,mess,散らかった状態［物］；混乱状態
+target1900,recession,不況；後退
+target1900,retreat,後退，退却；（計画・決定などの）撤回
+target1900,grave,墓；〔通例the ～〕死
+target1900,column,コラム；（聞などの）欄；円柱；（縦）列
+target1900,scenery,〔集合的に〕景色；背景
+target1900,plot,（小説などの）筋；陰謀
+target1900,sculpture,彫刻（作品）
+target1900,tablet,タブレット（型情報端末）；錠剤；平板
+target1900,dense,密集した，密度の高い；（霧などが）濃い
+target1900,exotic,外来の；異国風の
+target1900,acid,酸性の；酸っぱい；辛辣な
+target1900,bitter,苦い，つらい；辛辣な；怒りっぽい
+target1900,sensible,賢明な；実用的な；顕著な
+target1900,noble,高貴な；堂々とした；高潔な
+target1900,vague,漠然とした，あいまいな；おぼろげな
+target1900,parallel,（～と）平行［並行］の（to）；類似した
+target1900,tense,張り詰めた，緊張した
+target1900,vertical,垂直の（⇔ horizontal 水平な）；縦方向の
+target1900,indigenous,原産の，先住の；（その土地に）固有の
+target1900,abundant,豊富な；（～に）富む（in）
+target1900,hybrid,ハイブリッドの；雑種の；混成の
+target1900,irrelevant,（～にとって）無関係の（to）；見当違いの
+target1900,ridiculous,ばかげた；法外な
+target1900,fairy,妖精の（ような）
+target1900,sensory,感覚の
+target1900,chronic,慢性の（⇔ acute ⇒ 1486）；長引く；常習の
+target1900,voluntary,自発的な（⇔ compulsory ⇒ 1384）；無償の
+target1900,inclined,傾向がある；傾いた
+target1900,infer,を推論する，推測する
+target1900,esteem,を尊敬する；を見なす
+target1900,tackle,に取り組む；と（～のことで）話をつける（about / on）
+target1900,venture,危険を冒して進む；を思い切ってする
+target1900,accelerate,を加速させる，促進する；加速する
+target1900,accustom,（人）を慣れさせる
+target1900,amuse,をおもしろがらせる，楽しませる
+target1900,flourish,繁栄する；繁茂する；を振りかざす
+target1900,thrive,繁栄する，うまくいく；繁茂する
+target1900,nurture,をはぐくむ；を養成する
+target1900,spin,回転する；を回転させる；（糸）を紡ぐ
+target1900,drag,を引きずる；ぐずぐずする
+target1900,cast,を投じる；に役を当てる
+target1900,scatter,をまき散らす；分散する
+target1900,tempt,を（...する）気にさせる（to do）；を引きつける
+target1900,withdraw,を引き出す；を撤回する；撤退する
+target1900,yawn,あくびをする
+target1900,dye,を染める；染まる
+target1900,spill,をこぼす；こぼれる
+target1900,irritate,をいらいらさせる；をひりひりさせる
+target1900,insult,を侮辱する（≒ affront）
+target1900,enforce,を施行［実施］する；を（～に）強制する（on / upon）
+target1900,rob,から（金品を）奪う
+target1900,drain,（液体）を流出させる；（液体が）流れ出る
+target1900,suspend,を停職［停学，出場停止］にする；を一時的に中断する
+target1900,drift,漂う；さまよう；を押し流す
+target1900,forgive,を許す；を免除する
+target1900,recruit,を募る；に人を補充する
+target1900,twist,をねじる，ひねる；を歪曲する
+target1900,crush,を押しつぶす；を弾圧する；を絞り出す
+target1900,uncover,を暴く（⇔ conceal ⇒ 1116）；を 発掘する
+target1900,exploit,を活用する；を搾取する，につけ込む
+target1900,implement,を実行［実施］する
+target1900,integrate,を統合する；融合する
+target1900,incorporate,を取り入れる；を法人にする；合併する
+target1900,profile,人物の紹介；横顔；輪郭
+target1900,appetite,食欲；欲求
+target1900,impulse,衝動；刺激
+target1900,script,台本；筆跡
+target1900,anniversary,（～周年）記念日
+target1900,pension,年金
+target1900,temper,気質，気性；機嫌；かんしゃく
+target1900,cortex,皮質；樹皮
+target1900,syndrome,症候群；～現象
+target1900,utility,公共事業；公共料金；実用性
+target1900,cattle,〔集合的に〕牛
+target1900,herd,（牛などの）群れ；群衆
+target1900,fluid,流動体，液体
+target1900,pity,残念なこと；哀れみ
+target1900,priest,聖職者
+target1900,acquaintance,知人；面識；知識
+target1900,offspring,子孫，子；成果
+target1900,famine,飢饉；（食糧・物資の）ひどい不足
+target1900,deforestation,森林伐採
+target1900,jail,刑務所，拘置所（≒ prison）
+target1900,commodity,商品；有用なもの
+target1900,recipient,受け取る人；（臓器などの）被提供者
+target1900,republic,共和国；共和制
+target1900,combat,戦闘；対立
+target1900,bug,病原菌（が起こす病気）；虫；盗聴器；（機械・プログラムの）欠陥
+target1900,fraction,わずか（≒ bit），一部；分数
+target1900,index,指標；索引；指数
+target1900,motive,動機
+target1900,consent,同意，承諾
+target1900,hierarchy,（社会の）階層制；〔the ～〕支配層
+target1900,monument,記念碑，遺跡；金字塔
+target1900,asset,〔通例～s〕資産；価値のあるもの；利点
+target1900,decent,まずまずの；きちんとした；上品な
+target1900,competent,有能な；適任の；満足できる
+target1900,straightforward,単純な；率直な
+target1900,cosmetic,化粧の，美容の；うわべの
+target1900,delicate,繊細な；扱いにくい；もろい
+target1900,interior,室内の；内部の（⇔ exterior 外部の）
+target1900,transparent,透明な；明快な
+target1900,aesthetic,美的な；美学の
+target1900,deliberate,故意の；慎重な
+target1900,prehistoric,有史以前の；旧式な
+target1900,innate,生まれながらの；固有の
+target1900,mild,穏やかな；（程度が）軽い
+target1900,toxic,有毒な；中毒性の
+target1900,ashamed,恥じて
+target1900,humble,謙虚な；質素な；身分が低い
+target1900,peculiar,特有の；特異な
+target1900,steep,（傾斜が）急な；急激な；法外な
+target1900,trivial,ささいな，取るに足りない
+target1900,magnificent,壮大な；見事な
+target1900,assure,に自信を持って言う；を保証する
+target1900,precede,に先行する；に優先する
+target1900,revive,を復活させる；復活する
+target1900,compel,に強いる
+target1900,blossom,花が咲く（≒ bloom）；発展する
+target1900,terrify,を怖がらせる；を脅かす
+target1900,violate,（法律・規則など）に違反する；を侵害する
+target1900,suppress,を抑える；を抑圧する
+target1900,deceive,をだます（≒ take in）
+target1900,manipulate,を（巧みに）操る；を改ざんする
+target1900,starve,飢える；（～を）渇望する（for）；を飢えさせる
+target1900,flee,（から）逃げる
+target1900,whisper,（を）ささやく
+target1900,yell,叫ぶ，どなる
+target1900,deposit,を置く；を預ける；を堆積させる
+target1900,confine,を限定する；〔通例受身形で〕閉じ込められる
+target1900,swing,を揺らす，振る；揺れる；（行動に）さっと移る
+target1900,prolong,を長引かせる
+target1900,depict,を描く
+target1900,outline,の要点を述べる；の輪郭を描く
+target1900,shed,を捨て去る；（光など）を放つ；（涙・血）を流す
+target1900,emit,（光・熱など）を出す，排出する；（信号）を送る
+target1900,renew,を更する；（資源）を再生する
+target1900,utilize,を利用する（≒ make use of）
+target1900,assert,を主張する
+target1900,strain,に負担をかける；を緊張させる；を漉す
+target1900,strive,努力する；争う
+target1900,dare,あえて［思い切って］...する
+target1900,boast,を誇る；（を）自慢する
+target1900,startle,をびっくりさせる（≒ surprise）
+target1900,offend,の気分を害する；（に）違反する
+target1900,assemble,を集める；を組み立てる；集まる
+target1900,worsen,を悪化させる；悪化する（≒ deteriorate）
+target1900,rub,（を）こする；（～に）を塗る（on / over）
+target1900,descend,（を）降りる（⇔ ascend ⇒ 1839）；受け継がれる
+target1900,compensate,補償する（≒ make up）；に償う
+target1900,comprise,から成る；を構成する
+target1900,prevail,普及している；支配的である；（～に）打ち勝つ（over）
+target1900,quest,探究
+target1900,dignity,尊厳；威厳
+target1900,criterion,（判断・評価の）基準
+target1900,paradox,逆説；矛盾
+target1900,parliament,（英国などの）議会；国会議員（団）
+target1900,legislation,法律；立法
+target1900,troop,〔～s〕軍隊；集団
+target1900,epidemic,流行（病）；蔓延
+target1900,outbreak,発生，勃発
+target1900,chaos,混沌，大混乱
+target1900,nightmare,悪夢（のような状況）；不安感
+target1900,horror,恐怖；強い嫌悪；嫌な物［人］
+target1900,cluster,集団；（植物の）房，束
+target1900,pollen,花粉
+target1900,hive,ミツバチの巣（箱）；人の集まる所
+target1900,irrigation,灌漑
+target1900,dose,（薬の1回分の）服用量；放射線の1回の照射量
+target1900,suicide,自殺；自殺的行為
+target1900,feast,祝宴；大ごちそう；楽しみ
+target1900,rumor,うわさ
+target1900,proverb,ことわざ（≒ saying）
+target1900,signature,署名；特徴
+target1900,formula,方法，解決策；公式
+target1900,tuition,【主に米】 授業料（＝ 【英】tuition fees）；（個人）指導
+target1900,intake,摂取量；受け入れ数；取り入れること
+target1900,gear,用具（一式），器具；歯車；ギア
+target1900,aisle,（座席間などの）通路
+target1900,grief,深い悲しみ
+target1900,destiny,運命
+target1900,tomb,墓
+target1900,monk,修道士，僧（⇔ nun 修道女，尼）
+target1900,worship,崇拝，礼拝（式）；賛美
+target1900,outstanding,際立った；未払いの；未解決の
+target1900,infinite,無限の（⇔ finite 有限の）；無数の
+target1900,worthwhile,価値がある；立派な
+target1900,indispensable,不可欠な（⇔ dispensable なくてもすむ）
+target1900,compulsory,義務的な，強制的な（⇔ voluntary ⇒ 1199）
+target1900,probable,十分にありそうな
+target1900,ambiguous,あいまいな；多義的な
+target1900,obscure,（世に）知られていない；不明瞭な
+target1900,skeptical,（～に）懐疑的な（of ⇒ about）
+target1900,fragile,壊れやすい；虚弱な
+target1900,static,静的な（⇔ dynamic ⇒ 1083）；動きのない
+target1900,gradual,徐々の，緩やかな
+target1900,vivid,鮮やかな；生き生きとした
+target1900,imperial,帝国の；皇帝の
+target1900,hostile,敵意のある（⇔friendly 友好的な）
+target1900,superficial,表面的な
+target1900,scarce,乏しい；珍しい
+target1900,gross,総計の；甚だしい；粗野な
+target1900,inherent,生来の，本来的に備わっている
+target1900,notable,注目に値する；著名な
+target1900,bloom,花が咲く；栄える
+target1900,conquer,を征服する；を克服する
+target1900,induce,を引き起こす；を説得する
+target1900,attain,を獲得する，達成する；に達する
+target1900,spray,を吹きかける，に吹きつける
+target1900,retrieve,（情報）を検索する；を取り戻す；を回復する
+target1900,scratch,を引っかく；を取り消す，削除する
+target1900,designate,を指定する；を任命する
+target1900,contradict,と矛盾する；に反対意見を言う
+target1900,sigh,ため息をつく
+target1900,disrupt,を混乱させる；を分裂させる
+target1900,depart,出発する；（～から）それる（from）
+target1900,navigate,（を）誘導する；（を）操縦する；（を）航行する
+target1900,beg,に（～を）切に頼む（for）；（を）懇願する
+target1900,comprehend,を理解する
+target1900,oblige,に義務づける；に恩恵を施す
+target1900,cram,に詰め込む；詰め込み勉強をする
+target1900,flock,群がる，集まる
+target1900,clarify,を明確にする
+target1900,seize,をつかむ；を奪い取る；を没収する
+target1900,soar,急上昇する；空高く飛ぶ
+target1900,glow,光り［照り］輝く；赤く燃える；紅潮する
+target1900,disguise,を（～に）変装させる（as）；を偽る
+target1900,distort,を歪める；歪む
+target1900,undermine,を徐々にむしばむ；を侵食する
+target1900,abolish,を廃止する（≒ do away with）
+target1900,strip,を［から］取り去る；を裸にする
+target1900,dispose,〔dispose ofで〕を処分する；を（...する）気にさせる（to do）；を配置する
+target1900,dump,を投棄する；をどさっと落とす
+target1900,weave,を織る；（計画・物語など）を作り上げる
+target1900,refine,を洗練する；を精製する
+target1900,enrich,を豊かにする；（物質）を濃縮化する
+target1900,headline,（聞などの）見出し
+target1900,outlet,直売店，特売店；はけ口；【米】（電気の）コンセント（≒ 【英】socket）
+target1900,remedy,治療（法）；治療薬；解決法
+target1900,pill,錠剤，丸薬；〔the ～〕ピル，経口避妊薬
+target1900,reception,反応；宴会；受付；受信（状態）
+target1900,transaction,（商）取引；（人と人との）交流
+target1900,mutation,突然変異（体）；変化
+target1900,compassion,同情
+target1900,posture,姿勢；心構え
+target1900,curse,悪態，ののしりの言葉；呪い；〔通例a ～〕災い
+target1900,funeral,葬式
+target1900,census,国勢調査；交通調査
+target1900,encyclopedia,百科事典
+target1900,cereal,〔通例～s〕穀物；シリアル（穀物加工食品）
+target1900,fragment,断片
+target1900,patch,（～の）部分，斑点；継ぎ；貼り薬
+target1900,rubbish,【英】 ごみ（≒ 【米】garbage）；つまらないもの
+target1900,outlook,見解；見通し；眺め
+target1900,breakthrough,大発見，飛躍的進歩
+target1900,triumph,勝利；勝利の喜び；偉業
+target1900,spectator,（試合などの）観客
+target1900,sphere,領域；球体；天体
+target1900,county,【米】 郡；【英】州
+target1900,circulation,循環；流通；（聞・雑誌の）発行部数
+target1900,blade,刃；（プロペラなどの）羽根；（草などの）葉
+target1900,theft,窃盗（罪）
+target1900,vacuum,真空；空虚
+target1900,collision,衝突；対立
+target1900,bargain,買い得品；取引；契約
+target1900,landmark,（ある場所の）目印；画期的な出来事
+target1900,revenue,歳入（⇔ expenditure 歳出）；収益
+target1900,treaty,（国家間の）条約；協定
+target1900,supreme,最高の
+target1900,thorough,徹底的な；まったくの
+target1900,naked,裸の
+target1900,sincere,心からの；誠実な
+target1900,tame,飼いならされた，人に慣れた；退屈な
+target1900,dim,薄暗い；ぼんやりした
+target1900,acute,（痛み・感情などが）激しい；（知覚などが）鋭い；急性の（⇔ chronic ⇒ 1198）
+target1900,disabled,障害のある；障害者用の
+target1900,metropolitan,大都市の，首都圏の
+target1900,monetary,金銭的な；金融の
+target1900,alternate,代わりの（≒ alternative）；交互の
+target1900,partial,部分的な；不公平な（⇔impartial 公平な）
+target1900,divine,神の；神にささげる
+target1900,drastic,徹底的な，抜本的な；極端な
+target1900,fierce,猛烈な；どう猛な
+target1900,sole,唯一の；単独の；独占的な
+target1900,spontaneous,自然発生的な；自発的な
+target1900,spatial,空間の
+target1900,neat,きちんとした；見事な
+target1900,tidy,きちんとした，整頓された；相当の
+target1900,loyal,（～に）忠実な（to）；誠実な
+target1900,bless,に恩恵を与える；に感謝する
+target1900,regain,を取り戻す
+target1900,conform,順応する；一致する
+target1900,enroll,登録する，入会する；を登録させる
+target1900,entitle,に権利を与える；に題名をつける
+target1900,halt,を止める；止まる
+target1900,provoke,（感情・行動など）を引き起こす；を挑発する
+target1900,invade,を侵略する；を侵害する；（場所）に殺到する
+target1900,squeeze,押し入る；を押し込む；（を）搾る；（を）強く押す
+target1900,crawl,はう；ゆっくり進む
+target1900,digest,を消化する；を理解する；を要約する
+target1900,utter,（声）を発する；（考えなど）を述べる
+target1900,refrain,控える
+target1900,accommodate,を収容する；を（～に）適応させる（to）
+target1900,steer,（を）操縦する；を（～へ）向ける（to）
+target1900,drown,溺死する；を水浸しにする
+target1900,dip,を浸す；（手など）を（～に）突っ込む（into / in）；下がる
+target1900,soak,を浸す；をずぶぬれにする；浸る
+target1900,stir,をかき回す；を揺り動かす
+target1900,transplant,を移植する；を移住させる
+target1900,reassure,を安心させる
+target1900,resume,（を）再開する；を取り戻す
+target1900,speculate,（と）推測する；投機する
+target1900,surpass,を上回る
+target1900,appoint,を任命する；（日時・場所など）を指定する
+target1900,intrigue,に興味を持たせる；陰謀を企てる
+target1900,decay,腐敗する（≒ rot）；（徐々に）衰える
+target1900,contaminate,を汚染する；を堕落させる
+target1900,swell,膨張する，腫れる；を膨らませる
+target1900,tolerate,を許容する，我慢する（≒ put up with）
+target1900,envy,をうらやむ
+target1900,pray,（を）祈る
+target1900,confess,（を）告白する
+target1900,resign,（を）辞任する；を放棄する
+target1900,dissolve,（を）溶かす；（議会など）を解散する；（契約など）を解消する；溶ける
+target1900,conceive,（を）思いつく；と想像する；（を）妊娠する
+target1900,stake,利害関係；〔通例～s〕賭け金；杭
+target1900,surplus,余剰（⇔ shortage 不足），過剰；黒字
+target1900,sociology,社会学
+target1900,ideology,イデオロギー，思想傾向
+target1900,margin,余白；差；利ざや
+target1900,realm,領域；領土
+target1900,domain,分野；領域；ドメイン（＝ domain name）
+target1900,prairie,大草原
+target1900,frontier,〔通例the ～s〕最先端；〔the ～〕 【米】辺境地；国境
+target1900,bullet,銃弾
+target1900,shield,盾，防御物
+target1900,despair,絶望
+target1900,radiation,放射能，放射線
+target1900,nursery,託児所；苗床
+target1900,spouse,配偶者
+target1900,flesh,（人・動物の）肉；果肉
+target1900,limb,手足
+target1900,odor,におい；気配
+target1900,laundry,洗濯（物）；クリーニング店
+target1900,tide,潮（の干満）；動向
+target1900,questionnaire,アンケート
+target1900,revenge,復讐
+target1900,intellect,知性；〔the ～（s）〕知識人
+target1900,librarian,司書，図書館員
+target1900,manuscript,（手書きの）原稿；写本
+target1900,obsession,（考えなどに）取りつかれること；妄想；強迫観念
+target1900,hygiene,衛生（状態）；健康法
+target1900,legitimate,合法的な；妥当な
+target1900,authentic,本物の；信頼できる
+target1900,empirical,経験的な；経験主義の
+target1900,immense,膨大な
+target1900,absurd,ばかげた；不合理な
+target1900,weird,異様な（≒ bizarre），奇妙な
+target1900,accidental,偶然の；過失による
+target1900,uneasy,不安な；落ち着かない；ぎこちない
+target1900,jealous,嫉妬深い；用心深い
+target1900,feminine,女らしい（⇔ masculine ⇒ 1681）
+target1900,swift,素早い
+target1900,hollow,空洞の；空虚な；うわべだけの
+target1900,crude,大まかな；粗野な；未精製の
+target1900,sore,痛い；腹が立って
+target1900,pessimistic,悲観的な（⇔ optimistic ⇒ 882）
+target1900,vain,無駄な；うぬぼれた
+target1900,sheer,純然たる，真の；すごい；（布が）薄地の
+target1900,explicit,明白な（⇔ implicit ⇒ 1795）；率直な
+target1900,affluent,裕福な；豊富な
+target1900,exert,を及ぼす；（力など）を行使する
+target1900,excel,（～で）秀でている（in / at）；に勝る
+target1900,surge,殺到する；（感情が）こみ上げる；急騰する
+target1900,intervene,（～に）介入する（in）；介在する
+target1900,insert,を挿入する
+target1900,overtake,を追い抜く；に追いつく（≒ catch up with）；（災難・強い感情などが）を襲う
+target1900,carve,を彫る；を切り開く；（肉）を切り分ける
+target1900,addict,〔受身形で〕（～の）中毒になる（to）；（～に）凝る
+target1900,condemn,を非難する；〔受身形で〕（～の刑を）宣告される（to）
+target1900,convict,に有罪を宣告する
+target1900,dictate,を指図する；を書き取らせる；を規定する
+target1900,prescribe,（薬など）を処方する；を規定する
+target1900,stray,はぐれる，（道に）迷う
+target1900,roam,（を）歩き回る；放浪する
+target1900,enclose,を同封する；を取り囲む
+target1900,execute,を実行する；を処刑する
+target1900,coincide,同時に起こる；一致する
+target1900,lag,遅れる；徐々に弱まる
+target1900,cling,しがみつく；くっつく
+target1900,erase,を消す
+target1900,grind,（穀物など）をひく
+target1900,knit,を編む；を結合する；編み物をする
+target1900,inquire,（を）尋ねる
+target1900,betray,をうっかり表す；を裏切る
+target1900,leak,漏れる；を漏らす
+target1900,bounce,跳ねる；反射する；を弾ませる；（Ｅメールが）（宛先不明で）返送される
+target1900,sprawl,（都市などが）不規則に広がる；だらしなく手足を伸ばす
+target1900,converse,（～と）会話をする（with）
+target1900,recite,を暗唱する；を詳述する
+target1900,disregard,を無視する；を軽視する
+target1900,frown,眉をひそめる
+target1900,evoke,を呼び起こす
+target1900,pledge,を誓う，約束する；を与えることを約束する
+target1900,aspire,（～を）熱望する（to）
+target1900,contemplate,（を）熟考する；を予想する
+target1900,grace,優美，優雅；分別；（神の）恩寵
+target1900,commerce,商業；貿易
+target1900,draft,下書き；為替手形；隙間風
+target1900,timber,【英】 木材（≒ 【米】lumber）；樹木
+target1900,garment,衣服
+target1900,thread,糸；（議論などの）筋道
+target1900,cabinet,〔しばしばthe C-〕内閣；戸棚
+target1900,toll,損害（の程度）；死傷者数；通行料
+target1900,discourse,話し合い，会話；講演；論説
+target1900,superstition,迷信
+target1900,glimpse,ちらりと見えること
+target1900,arithmetic,計算；算数
+target1900,legacy,遺産
+target1900,anthropology,人類学
+target1900,rage,激怒；猛威
+target1900,sorrow,悲しみ
+target1900,psychiatrist,精神科医
+target1900,ward,行政区；病棟
+target1900,stall,露店；エンスト；失速
+target1900,flame,炎；情熱
+target1900,moisture,水分；湿気
+target1900,irony,皮肉
+target1900,warrior,戦士
+target1900,astronomy,天文学
+target1900,probe,（無人）宇宙探査機；（～の）精査（into）；探り針
+target1900,altitude,高度，標高
+target1900,defect,欠陥；不足
+target1900,scope,（活動・能力などの）範囲；余地
+target1900,sentiment,感情；感想；感傷
+target1900,plausible,もっともらしい
+target1900,masculine,男らしい（⇔ feminine ⇒ 1588）
+target1900,rigid,厳しい；硬直した
+target1900,literal,文字どおりの；逐語的な；散文的な
+target1900,arbitrary,恣意的な；独断的な
+target1900,anonymous,匿名の
+target1900,antique,骨董の，アンティークの；古風な
+target1900,eternal,永遠の；不変の
+target1900,intermediate,中級の；中間の
+target1900,subordinate,（～より）下位の（to）；副次的な
+target1900,gloomy,陰気な；薄暗い；悲観的な
+target1900,faint,かすかな；めまいがする；弱々しい
+target1900,conspicuous,目立つ
+target1900,embody,を具現する；を包含する
+target1900,illuminate,を照らす；を解明する
+target1900,console,を慰める
+target1900,disclose,を公表する，暴く
+target1900,rotate,回転する；循環する；を回転させる
+target1900,hinder,を妨げる
+target1900,withstand,に耐える
+target1900,erupt,（火山が）噴火する；勃発する
+target1900,render,を（ある状態に）する；（援助など）を与える
+target1900,plunge,（～に）（を）突っ込む（into）；没頭する；陥る
+target1900,surrender,を放棄する，引き渡す；（～に）屈する（to）
+target1900,plug,〔plug inで〕のプラグを電源に差し込む；を（～で）ふさぐ（with）
+target1900,suck,（を）吸う；（を）しゃぶる
+target1900,mock,をばかにする（≒ make fun of）；のまねをしてからかう
+target1900,tease,（を）からかう；をいじめる
+target1900,soothe,をなだめる；を和らげる
+target1900,stain,を汚す；に着色する
+target1900,stumble,よろけながら歩く；（～に）つまずく（on / over）
+target1900,flush,を紅潮させる；を水で流す；紅潮する
+target1900,impair,を損なう
+target1900,presume,と思う；と推定する；を前提とする
+target1900,contend,と主張する；競う
+target1900,roar,うなる，ほえる；大笑いする
+target1900,divert,（注意など）をそらす；を迂回させる；（資金など）を転用する
+target1900,await,を待つ（≒ wait for）
+target1900,fetch,を（行って）持って［連れて］くる
+target1900,unify,を統合［統一］する；統一される
+target1900,inspect,を点検する；を視察する
+target1900,tactics,作戦，方策；戦術，戦法
+target1900,feat,偉業，功績；妙技
+target1900,prestige,名声；〔形容詞的に〕名声のある
+target1900,analogy,類推；類似
+target1900,conscience,良心；分別
+target1900,textile,織物；繊維（産業）
+target1900,deficit,赤字，不足；欠陥
+target1900,plague,疫病；（害虫などの）異常発生
+target1900,hazard,危険（要素）；偶然
+target1900,carriage,馬車；車両（＝ 【米】car）；立ち居振舞い；【英】輸送
+target1900,friction,不和；摩擦
+target1900,rebel,反逆者
+target1900,monopoly,独占（権）
+target1900,staple,必需食品；主要産物
+target1900,merchandise,商品
+target1900,supervisor,監督者；指導教員
+target1900,predecessor,前任者（⇔ successor 後継者）；前のもの
+target1900,personnel,〔集合的に〕職員，社員
+target1900,vessel,船舶；容器；（体液が通る）脈管
+target1900,liver,肝臓
+target1900,certificate,証明書；免許状
+target1900,geometry,幾何学
+target1900,symmetry,（左右）対称（⇔ asymmetry 非対称）；調和
+target1900,biography,伝記
+target1900,masterpiece,傑作
+target1900,rhyme,押韻詩；韻；〔通例～s〕詩歌
+target1900,premium,保険料；プレミア；景品
+target1900,breakdown,崩壊；（神経）衰弱；故障；内訳
+target1900,courtesy,礼儀正しさ；好意；優遇
+target1900,protocol,（条約）議定書；外交儀礼；プロトコル
+target1900,specimen,標本；実例
+target1900,thesis,論文；命題，テーゼ
+target1900,diligent,勤勉な；入念な
+target1900,vocational,職業の，職業訓練の（ための）
+target1900,bankrupt,破産宣告を受けた；破綻している
+target1900,stern,厳しい；いかめしい
+target1900,stubborn,頑固な，強情な（≒ obstinate）；手に負えない
+target1900,fertile,肥沃な（⇔ barren 不毛の）；多産の
+target1900,ripe,熟した；成熟した
+target1900,stiff,硬直した，凝った；堅い
+target1900,obsolete,廃れた，使われなくなった；古くなった
+target1900,vacant,空いている
+target1900,preliminary,予備の，準備の
+target1900,approximate,おおよその
+target1900,implicit,暗黙の（⇔ explicit ⇒ 1598）；内在する
+target1900,punctual,時間を守る
+target1900,compatible,矛盾しない；互換性のある；気が合う
+target1900,ample,十分すぎるほどの；広い
+target1900,ubiquitous,至る所にある
+target1900,merge,（を）合併する；を融合させる；溶け込む
+target1900,penetrate,（に）浸透する；（に）進出する；（を）貫く；（を）見抜く
+target1900,assault,に暴行する；を攻撃する
+target1900,torture,を拷問にかける；を苦しめる
+target1900,bleed,出血する
+target1900,erect,を建てる；を直立させる
+target1900,cherish,を大切にする；を心に抱く
+target1900,mourn,（を）悼む（≒ grieve）；（を）嘆く
+target1900,dread,をひどく恐れる
+target1900,nourish,に栄養を与える；をはぐくむ
+target1900,swear,（～を）ののしる（at）；（を）誓う（≒ vow）
+target1900,corrupt,を堕落させる；を買収する；堕落する
+target1900,restrain,を制止する；を規制する
+target1900,comply,従う，応じる
+target1900,expire,期限が切れる
+target1900,embark,（～に）乗り出す（on）；乗船［搭乗］する
+target1900,flap,パタパタ動く；羽ばたく（≒ flutter）；をパタパタ動かす
+target1900,furnish,に（～を）備えつける（with）
+target1900,thrust,を押しつける；を突き刺す；押し進む
+target1900,resent,に憤慨する
+target1900,reconcile,を（～と）一致させる（with）；を和解させる
+target1900,allege,を主張する
+target1900,oppress,を抑圧［迫害］する；を悩ませる
+target1900,expel,を追放する；を吐き出す
+target1900,ascend,（を）上がる（⇔ descend ⇒ 1337）
+target1900,advent,〔the ～〕出現，到来
+target1900,reign,治世；統治
+target1900,diplomacy,外交（的手腕）
+target1900,exile,亡命（者）；（国外）追放
+target1900,refuge,避難（所）；保護
+target1900,plight,窮状（＝ predicament）；（悪い）状態
+target1900,solitude,ひとりでいること；孤独
+target1900,fallacy,誤った考え，誤信；錯誤
+target1900,eclipse,（日食・月食などの）食；（名声などの）失墜
+target1900,basin,流域；盆地，海盆；洗面器［台］
+target1900,erosion,浸食；衰退
+target1900,archaeology,考古学
+target1900,mercy,慈悲；〔通例a ～〕幸運
+target1900,rhetoric,修辞（法）；美辞麗句
+target1900,verse,韻文（⇔ prose 散文）；詩
+target1900,congestion,混雑
+target1900,sewage,下水
+target1900,attorney,【米】 弁護士；代理人
+target1900,bulk,〔the ～〕（～の）大半（of）；大きさ；大量
+target1900,reunion,再会（の集い）；再結合
+target1900,synthesis,合成；総合（⇔ analysis ⇒ 363）
+target1900,mold,鋳型；鋳物；性格；かび
+target1900,thirst,（のどの）渇き；（～に対する）渇望（for）
+target1900,greed,強欲
+target1900,bribe,賄賂
+target1900,contempt,軽蔑；恥辱
+target1900,orphan,孤児
+target1900,doctrine,教義；【米】（政策上の）主義
+target1900,liable,しがちな；（～を）受けやすい（to）；責任がある
+target1900,earnest,まじめな，熱心な
+target1900,intelligible,（簡単に）理解できる
+target1900,abrupt,突然の（≒ sudden）
+target1900,reckless,無謀な；（～を）顧みない（of）
+target1900,furious,激怒した；猛烈な
+target1900,eloquent,雄弁な；説得力のある
+target1900,juvenile,青少年の
+target1900,notorious,悪名高い（≒ infamous）
+target1900,timid,臆病な；内気な
+target1900,humid,湿気のある（≒ muggy 蒸し暑い）
+target1900,cynical,冷笑的な，皮肉な
+target1900,dumb,ばかげた；口のきけない；無言の
+target1900,monotonous,単調な
+target1900,perpetual,永続的な；ひっきりなしの
+target1900,dizzy,目まいがする；当惑した
+target1900,weary,疲れ果てた；（～に）うんざりした（of）
+target1900,mortal,致命的な（≒ fatal）；死すべき（運命の）（⇔ immortal 不死の）
+target1900,zealous,熱心な；熱狂的な
+terget1900,vital,重要な
