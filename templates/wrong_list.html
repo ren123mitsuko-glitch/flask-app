@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="/static/style.css">
+
+<h1>間違えた単語一覧</h1>
+
+<div class="card">
+    <table border="1" cellpadding="8" style="margin:auto;">
+        <tr>
+            <th>単語</th>
+            <th>意味</th>
+            <th>最終出題</th>
+            <th>間隔</th>
+        </tr>
+
+        {% for w in wrong %}
+        <tr>
+            <td>{{ w.word }}</td>
+            <td>{{ w.meaning }}</td>
+            <td>{{ w.last_time }}</td>
+            <td>{{ w.interval }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <br>
+    <a href="/admin">← 管理者メニューへ</a>
+</div>
