@@ -1,0 +1,12 @@
+<h1>正答率</h1>
+
+<h2>全体</h2>
+<p>{{ correct }}/{{ total }}（{{ (correct/total*100)|round(1) }}%）</p>
+
+<h2>通常モード</h2>
+<p>{{ quiz_correct }}/{{ quiz_total }}（{{ (quiz_correct/quiz_total*100)|round(1) }}%）</p>
+
+<h2>復習モード</h2>
+<p>{{ review_correct }}/{{ review_total }}（{{ (review_correct/review_total*100)|round(1) }}%）</p>
+
+<a href="/score">スコア一覧へ</a>
