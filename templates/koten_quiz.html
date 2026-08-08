@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>古典クイズ</title> 
+
+
+    <style>
+        .question-word {
+            font-size: 28px;
+            font-weight: bold;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .choice-card {
+            width: 90%;
+            margin: 12px auto;
+            padding: 18px;
+            font-size: 20px;
+            border-radius: 14px;
+            background: #ffffff;
+            border: 2px solid #4A90E2;
+            color: #333;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            transition: 0.15s;
+        }
+
+        .choice-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 14px rgba(0,0,0,0.25);
+        }
+
+        .example-box {
+            width: 90%;
+            margin: 20px auto;
+            padding: 16px;
+            background: #f7f2e9;
+            border-left: 6px solid #b5651d;
+            border-radius: 10px;
+            font-size: 18px;
+            font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="question-word">{{ q.word }}</div>
+
+    <!-- ★ ノンストップ回答用フォーム -->
+<form id="answerForm" action="/koten_answer" method="post">
+    <input type="hidden" name="correct" value="{{ q.meaning[0] }}">
+    <input type="hidden" name="chosen" id="chosen">
+</form>
+
+<!-- ★ 選択肢カード（クリックでポップ表示 → 自動で次へ） -->
+{% for c in choices %}
+<button class="choice-card" onclick="
+    document.getElementById('chosen').value='{{ c }}';
+    checkAnswer('{{ q.meaning[0] }}', '{{ c }}');
+">
+    {{ c }}
+</button>
+{% endfor %}
+
+
+    
+
+    <div class="example-box">
+        例文：{{ q.example }}
+    </div>
+
+</body>
+
+<script>
+function checkAnswer(correct, chosen) {
+    const box = document.getElementById("popup");
+
+    if (correct === chosen) {
+        box.innerText = "正解！";
+        box.style.background = "#4CAF50";
+    } else {
+        box.innerText = "不正解…";
+        box.style.background = "#E53935";
+    }
+
+    box.style.display = "block";
+
+    setTimeout(() => {
+        document.getElementById("answerForm").submit();
+    }, 600);
+}
+</script>
+
+<div id="popup" style="
+    display:none;
+    position:fixed;
+    top:20px;
+    left:50%;
+    transform:translateX(-50%);
+    padding:20px;
+    color:white;
+    font-size:22px;
+    border-radius:10px;
+    z-index:999;
+"></div>
+
+
+</html>
