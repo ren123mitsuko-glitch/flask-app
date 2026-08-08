@@ -371,7 +371,7 @@ def idioms_answer():
     if correct == answer:
         result = "正解！"
     else:
-        result = "ざこ！！！"
+        result = "不正解！！"
 
     return render_template("idioms_result.html", result=result)
 
