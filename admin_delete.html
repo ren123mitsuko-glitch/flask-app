@@ -1,0 +1,12 @@
+<h1>🗑 単語を削除</h1>
+
+<form method="POST">
+    <select name="word">
+        {% for w in words %}
+            <option value="{{ w.word }}">{{ w.word }} - {{ w.meaning }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">削除</button>
+</form>
+
+<a class="home-btn" href="/admin">← 管理メニューへ戻る</a>
