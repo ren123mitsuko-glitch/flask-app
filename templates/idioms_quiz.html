@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="/static/style.css">
+
+<h1>熟語クイズ</h1>
+
+<div class="card">
+    <h2>{{ q.idiom }}</h2>
+
+    <form method="POST" action="/idioms_answer">
+        <input type="hidden" name="correct" value="{{ q.meaning }}">
+
+        {% for c in choices %}
+            <button class="choice-btn" type="submit" name="answer" value="{{ c.meaning }}">
+                {{ c.meaning }}
+            </button>
+        {% endfor %}
+    </form>
+</div>
+
+<a href="/" class="back-btn">🏠 ホームに戻る</a>
