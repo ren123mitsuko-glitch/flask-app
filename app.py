@@ -230,7 +230,9 @@ from datetime import datetime
 import ast
 
 def save_score(correct, total, mode, wrong_list):
-    date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    JST = timezone(timedelta(hours=9))
+    date = datetime.now(JST).strftime("%Y-%m-%d %H:%M:%S")
+
     if wrong_list is None:
         wrong_list = []
 
@@ -555,7 +557,7 @@ def koten_finish():
     session.pop("koten_index", None)
 
     # ★ 成績保存（古典）
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    timestamp = datetime.now(JST).strftime("%Y-%m-%d %H:%M:%S")
     correct = len(session.get("koten_words_all", [])) - len(wrong)
     total = len(session.get("koten_words_all", []))
 
